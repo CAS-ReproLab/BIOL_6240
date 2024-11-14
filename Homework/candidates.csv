@@ -1,0 +1,2325 @@
+cid,cmpdname,mw,xlogp,hbonddonor,hbondacc
+137,Aminolevulinic Acid,131.13,-3.8,2,4
+176,Acetic Acid,60.05,-0.2,1,2
+187,Acetylcholine,146.21,0.2,0,2
+204,Allantoin,158.12,-2.2,4,3
+244,Benzyl Alcohol,108.14,1.1,1,1
+247,Betaine,117.15,0.5,0,2
+248,"N,N,N-trimethylglycinium",118.15,-0.1,1,2
+280,Carbon Dioxide,44.009,0.9,0,2
+298,"2,2-dichloro-N-[1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide",323.13,1.1,3,5
+311,Citric Acid,192.12,-1.7,4,7
+323,Coumarin,146.14,1.4,0,2
+338,Salicylic Acid,138.12,2.3,2,3
+444,Bupropion,239.74,3.2,1,2
+564,Aminocaproic acid,131.17,-3.0,2,3
+586,Creatine,131.13,-1.2,3,3
+596,Cytosar,243.22,-2.1,4,5
+612,Lactic Acid,90.08,-0.7,2,3
+679,Dimethyl Sulfoxide,78.14,-0.6,0,2
+681,Dopamine,153.18,-1.0,3,3
+702,Ethanol,46.07,-0.1,1,1
+727,Hexachlorocyclohexane,290.8,3.8,0,0
+750,Glycine,75.07,-3.2,2,3
+753,Glycerin,92.09,-1.8,3,3
+757,Glycolic Acid,76.05,-1.1,2,3
+774,Histamine,111.15,-0.7,2,2
+784,Hydrogen Peroxide,34.015,-0.9,2,2
+785,Hydroquinone,110.11,0.6,2,2
+790,CID 790,136.11,-1.1,2,2
+807,Iodine,253.808,1.7,0,0
+838,Racepinephrine,183.2,-1.4,4,4
+896,Melatonin,232.28,0.8,2,2
+904,Acetanilide,135.16,1.2,1,1
+936,Niacinamide,122.12,-0.4,1,2
+938,Nicotinic acid,123.11,0.4,1,3
+942,3-(1-Methylpyrrolidin-2-yl)pyridine,162.23,1.2,0,2
+947,Nitrogen,28.014,0.1,0,2
+948,Nitrous Oxide,44.013,0.5,0,2
+962,Water,18.015,-0.5,1,1
+977,Oxygen,31.999,-1.1,0,2
+1000,2-Amino-1-phenylethanol,137.18,0.1,2,2
+1004,Phosphoric Acid,97.995,-2.1,3,4
+1031,1-Propanol,60.1,0.3,1,1
+1046,Pyrazinamide,123.11,-0.6,1,3
+1054,Pyridoxine,169.18,-0.8,3,4
+1065,"Cinchonan-9-ol, 6'-methoxy-, (8alpha,9R)-",324.4,2.9,1,4
+1130,Thiamine,265.36,1.0,2,5
+1134,"1-[4-Hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione",242.23,-1.2,3,5
+1140,Toluene,92.14,2.7,0,0
+1176,Urea,60.056,-1.4,2,1
+1206,DL-Methamphetamine,149.23,2.1,1,1
+1254,Menthol,156.26,3.0,1,1
+1355,1-(3-Chlorophenyl)piperazine,196.67,1.7,1,2
+1576,Methcathinone,163.22,1.6,1,2
+1614,Tenamfetamine,179.22,1.6,1,3
+1615,"3,4-Methylenedioxymethamphetamine",193.24,2.2,1,3
+1647,3-Aminopropanenitrile,70.09,-1.0,1,2
+1727,Dalfampridine,94.11,0.3,1,2
+1775,Phenytoin,252.27,2.5,2,2
+1805,"Azacytidine, 5-",244.2,-2.2,4,5
+1839,Nitrofural;NFZ,198.14,0.2,2,5
+1935,Tacrine,198.26,2.7,1,2
+1978,Acebutolol,336.4,1.7,3,5
+1979,Aceclidine,169.22,0.7,0,3
+1981,Acemetacin,415.8,4.2,1,6
+1983,Acetaminophen,151.16,0.5,2,2
+1986,Acetazolamide,222.3,-0.3,2,7
+1989,Acetohexamide,324.4,2.4,2,4
+1990,Acetohydroxamic Acid,75.07,-1.6,2,2
+1993,Methacholine,160.23,0.6,0,2
+2031,Adiphenine,311.4,4.2,0,3
+2082,Albendazole,265.33,2.9,2,4
+2083,Albuterol,239.31,0.3,4,4
+2099,Alosetron,294.35,1.6,1,2
+2118,Alprazolam,308.8,2.1,0,3
+2119,Alprenolol,249.35,3.1,2,3
+2122,Althiazide,383.9,0.8,3,8
+2123,Altretamine,210.28,2.7,0,6
+2130,Amantadine,151.25,2.4,1,1
+2132,Ambroxol,378.1,2.6,3,3
+2141,Amifostine,214.23,-4.5,4,6
+2145,Aminoglutethimide,232.28,1.2,2,3
+2148,Aminohippuric acid,194.19,-0.9,3,4
+2151,4-Aminoantipyrine,203.24,0.1,1,3
+2153,Theophylline,180.16,0.0,1,3
+2159,Amisulpride,369.5,1.5,2,6
+2161,Amlexanox,298.29,3.1,2,6
+2162,Amlodipine,408.9,3.0,2,7
+2164,Amobarbital,226.27,2.1,2,3
+2165,Amodiaquine,355.9,2.6,2,4
+2170,Amoxapine,313.8,2.6,1,3
+2171,"6-{[Amino(4-hydroxyphenyl)acetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",365.4,-2.0,4,7
+2174,"6-{[Amino(phenyl)acetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",349.4,-1.1,3,6
+2178,Amprolium ion,243.33,2.1,1,3
+2187,Anastrozole,293.4,2.1,0,4
+2197,Anisindione,252.26,2.9,0,3
+2200,Antazoline,265.35,2.6,1,2
+2202,Anthralin,226.23,3.2,2,3
+2206,Antipyrine,188.23,0.4,0,2
+2216,Apraclonidine,245.11,1.3,3,2
+2230,Arecoline,155.19,0.3,0,3
+2244,Aspirin,180.16,1.2,1,4
+2249,Atenolol,266.34,0.2,3,4
+2265,Azathioprine,277.27,0.1,1,7
+2266,Azelaic Acid,188.22,1.6,2,4
+2267,Azelastine,381.9,4.4,0,3
+2272,Azobenzene,182.22,3.8,0,2
+2284,Baclofen,213.66,-1.0,2,3
+2292,Bamethan,209.28,0.6,3,3
+2294,Barbital,184.19,0.6,2,3
+2308,"9-Chloro-11,17,21-trihydroxy-16-methylpregna-1,4-diene-3,20-dione",408.9,2.2,3,5
+2328,Bentazone,240.28,2.8,1,4
+2337,Benzocaine,165.19,1.9,1,3
+2342,Benzquinamide,404.5,2.1,0,6
+2343,Benzthiazide,431.9,1.7,2,7
+2345,Benzyl Benzoate,212.24,4.0,0,2
+2349,Cillin,334.4,1.8,2,5
+2365,Propiolactone,72.06,-0.2,0,2
+2366,Betahistine,136.19,0.4,1,2
+2368,Bethanidine,177.25,0.9,2,1
+2369,Betaxolol,307.4,2.8,2,4
+2370,Bethanechol,161.22,0.0,1,2
+2375,Bicalutamide,430.4,2.3,2,9
+2381,Biperiden,311.5,4.3,1,2
+2391,Bisacodyl,361.4,3.8,0,5
+2405,Bisoprolol,325.4,1.9,2,5
+2431,Bretylium,243.16,2.8,0,0
+2435,Brimonidine,292.13,0.6,2,3
+2441,Bromazepam,316.15,1.7,1,3
+2442,Bromhexine,376.13,4.3,1,2
+2444,Bromazine,334.2,4.0,0,2
+2447,Bromisoval,223.07,1.1,2,2
+2448,Bromperidol,420.3,3.3,1,4
+2451,Brotizolam,393.7,2.8,0,4
+2466,Bufexamac,223.27,1.9,2,3
+2467,Buflomedil,307.4,2.3,0,5
+2471,Bumetanide,364.4,2.8,3,7
+2473,Bunitrolol,248.32,1.9,2,4
+2474,Bupivacaine,288.4,3.4,1,2
+2475,Bupranolol,271.78,2.8,2,3
+2477,Buspirone,385.5,2.6,0,6
+2478,Busulfan,246.3,-0.5,0,6
+2479,Butabarbital,212.25,1.6,2,3
+2480,Butacaine,306.4,4.5,1,4
+2481,Butalbital,224.26,1.7,2,3
+2519,Caffeine,194.19,-0.1,0,3
+2520,Verapamil,454.6,3.8,0,6
+2522,"5-[2-[1-(5-cyclopropyl-5-hydroxypent-3-en-2-yl)-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylenecyclohexane-1,3-diol",412.6,4.3,3,3
+2541,Candesartan,440.5,4.1,2,7
+2550,1-(2-Methyl-3-sulfanylpropanoyl)pyrrolidine-2-carboxylic acid,217.29,0.3,2,4
+2551,Carbamoylcholine,147.2,-0.4,1,2
+2554,Carbamazepine,236.27,2.5,1,1
+2557,Carbazochrome,236.23,0.0,3,5
+2562,Carbetapentane,333.5,3.8,0,4
+2564,Carbinoxamine,290.79,2.9,0,3
+2576,Carisoprodol,260.329,1.9,2,4
+2578,Carmustine,214.05,1.5,1,3
+2581,Carprofen,273.71,4.0,2,2
+2583,Carteolol,292.37,1.0,3,4
+2585,Carvedilol,406.5,4.2,3,5
+2609,7-[(2-Amino-2-phenylacetyl)amino]-3-chloro-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid,367.8,-1.8,3,6
+2610,Oracefal,363.4,-2.1,4,7
+2646,7-[[2-Amino-2-(4-hydroxyphenyl)-1-oxoethyl]amino]-8-oxo-3-prop-1-enyl-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid,389.4,-1.4,4,7
+2662,Celecoxib,381.4,3.4,1,7
+2663,Celiprolol,379.5,1.9,3,5
+2678,Cetirizine,388.9,1.7,1,5
+2684,"2-Methylspiro[1,3-oxathiolane-5,3'-1-azabicyclo[2.2.2]octane]",199.32,1.5,0,3
+2707,Chloral Hydrate,165.4,1.0,2,2
+2708,Chlorambucil,304.2,1.7,1,3
+2710,Chlorcyclizine,300.8,4.5,0,2
+2712,Chlordiazepoxide,299.75,2.4,1,3
+2717,Chlormezanone,273.74,1.1,0,3
+2719,Chloroquine,319.9,4.6,1,3
+2720,Chlorothiazide,295.7,-0.2,2,6
+2722,Chloroxine,214.04,3.5,1,2
+2723,Chloroxylenol,156.61,2.0,1,1
+2724,Chlorphenesin Carbamate,245.66,1.2,2,4
+2725,Chlorpheniramine,274.79,3.4,0,2
+2727,Chlorpropamide,276.74,2.3,2,3
+2728,Chlorpropham,213.66,3.5,1,2
+2732,Chlorthalidone,338.8,0.9,3,5
+2733,Chlorzoxazone,169.56,1.8,1,2
+2749,Ciclopirox,207.27,2.0,1,2
+2754,Cilostazol,369.5,3.1,1,5
+2756,Cimetidine,252.34,0.4,3,4
+2762,Cinoxacin,262.22,2.1,1,7
+2764,Ciprofloxacin,331.34,-1.1,2,7
+2769,Propulsid,465.9,3.4,2,7
+2771,Citalopram,324.4,3.2,0,4
+2782,Clemizole,325.8,4.0,0,2
+2783,Clenbuterol,277.19,2.2,3,3
+2784,Clidinium,352.4,3.3,1,3
+2786,"N-{2-chloro-1-[3,4,5-trihydroxy-6-(methylsulfanyl)oxan-2-yl]propyl}-1-methyl-4-propylpyrrolidine-2-carboxamide",425.0,2.2,4,7
+2788,Clioquinol,305.5,3.5,1,2
+2789,Clobazam,300.74,2.1,0,2
+2796,Clofibrate,242.7,3.3,0,3
+2802,Clonazepam,315.71,2.4,1,4
+2803,Clonidine,230.09,1.6,2,1
+2804,Clopamide,345.8,2.3,2,5
+2809,Clorazepic Acid,314.72,3.3,2,4
+2811,Clotiazepam,318.8,3.5,0,3
+2826,Methyl 3-(benzoyloxy)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate,303.35,2.3,0,5
+2871,Coumaphos,362.8,4.5,0,6
+2883,Crotamiton,203.28,2.8,0,1
+2905,Cyclopentolate,291.4,2.7,1,4
+2907,Cyclophosphamide,261.079,0.6,1,4
+2910,Cyclothiazide,389.9,2.0,3,7
+2913,Cyproheptadine,287.4,4.7,0,1
+2952,"1-[[5-(4-Nitrophenyl)furan-2-yl]methylideneamino]imidazolidine-2,4-dione",314.25,1.7,1,6
+2955,Dapsone,248.3,1.0,2,4
+2972,Deferiprone,139.15,0.5,1,3
+2995,Desipramine,266.4,4.9,1,2
+2997,Nordazepam,270.71,2.9,1,2
+2998,Nonivamide,293.4,4.2,2,3
+3000,Topisolon,376.5,2.3,2,5
+3003,Celestone,392.5,1.9,3,6
+3007,Amphetamine,135.21,1.8,1,1
+3009,Eflornithine,182.17,-2.9,3,6
+3016,Diazepam,284.74,3.0,0,2
+3019,Diazoxide,230.67,1.2,1,3
+3025,Dibucaine,343.5,4.4,1,4
+3033,Diclofenac,296.1,4.4,2,3
+3037,Dichlorophene,269.12,4.3,2,2
+3038,Dichlorphenamide,305.2,0.3,2,6
+3039,Dichlorvos,220.97,1.4,0,4
+3052,Diethylcarbamazine,199.29,0.3,0,2
+3055,Diphenidol,309.4,4.2,1,2
+3056,"[2-(17-Acetyloxy-6,9-difluoro-11-hydroxy-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl)-2-oxoethyl] acetate",494.5,3.0,1,9
+3059,Diflunisal,250.2,4.4,2,5
+3063,Rapocodin,301.4,2.2,1,4
+3076,Dilacor XR,414.5,3.1,0,6
+3080,Dimercaprol,124.23,0.2,3,3
+3090,Dimetridazole,141.13,0.1,0,3
+3092,Dinitolmide,225.16,0.7,1,5
+3100,Diphenhydramine,255.35,3.3,0,2
+3103,Diphenylpyraline,281.4,3.9,0,2
+3110,Metamizole(1-),310.35,-0.1,0,6
+3111,Metamizole,311.36,0.0,1,6
+3114,Disopyramide,339.5,3.2,1,3
+3117,Disulfiram,296.5,3.9,0,4
+3121,Valproic Acid,144.21,2.8,1,2
+3148,Anzemet,324.4,3.4,1,4
+3151,Domperidone,425.9,3.9,2,3
+3152,Donepezil,379.5,4.3,0,4
+3155,Dosulepin,295.4,4.5,0,2
+3156,Doxapram,378.5,3.3,0,3
+3157,Doxazosin,451.5,2.5,1,9
+3158,Zonalon,279.4,4.3,0,2
+3162,Doxylamine,270.37,2.5,0,3
+3168,Droperidol,379.4,3.5,1,4
+3180,Dyclonine,289.4,3.6,0,3
+3182,Dyphylline,254.24,-1.8,2,5
+3202,Edrophonium,166.24,1.8,1,1
+3203,"6-chloro-4-(cyclopropylethynyl)-4-(trifluoromethyl)-1,4-dihydro-2H-3,1-benzoxazin-2-one",315.67,4.0,1,5
+3219,Emedastine,302.4,2.2,0,4
+3226,Enflurane,184.49,2.1,0,6
+3229,Enoxacin,320.32,-0.2,2,8
+3241,Epinastine,249.31,3.5,1,1
+3242,Epirizole,234.25,1.3,0,5
+3261,Estazolam,294.74,1.7,0,3
+3278,Ethacrynic acid,303.13,3.8,1,4
+3279,Tibutol,204.31,-0.1,4,4
+3284,Ethinamate,167.2,1.3,1,2
+3290,Profenamine,312.5,4.8,0,3
+3291,Ethosuximide,141.17,0.4,1,2
+3292,Ethotoin,204.22,1.0,1,2
+3293,Ethoxyquin,217.31,3.1,1,2
+3295,Ethoxzolamide,258.3,2.0,1,6
+3299,Ethyl loflazepate,360.8,2.9,1,5
+3306,Etilefrine,181.23,0.1,3,3
+3307,Etizolam,342.8,2.6,0,4
+3308,Etodolac,287.35,2.8,2,3
+3324,Famciclovir,321.33,0.0,1,8
+3325,Pepcid,337.5,-0.6,4,8
+3331,Felbamate,238.24,0.6,2,4
+3332,Felbinac,212.24,3.0,1,2
+3333,Felodipine,384.2,3.9,1,5
+3334,Fenbendazole,299.3,3.6,2,4
+3335,Fenbufen,254.28,3.2,1,3
+3337,Fenfluramine,231.26,3.4,1,4
+3341,Fenoldopam,305.75,2.4,4,4
+3342,Fenoprofen,242.27,3.3,1,3
+3344,Fenspiride,260.329,2.1,1,3
+3345,Fentanyl,336.5,4.0,0,2
+3346,Fenthion,278.3,4.1,0,5
+3354,Flavoxate,391.5,4.3,0,5
+3357,Fleroxacin,369.34,-0.1,1,9
+3360,Floctafenine,406.4,3.7,3,9
+3365,Fluconazole,306.27,0.4,1,7
+3366,Flucytosine,129.09,-0.9,2,3
+3369,Fludiazepam,302.73,2.8,0,3
+3372,Fluphenazine,437.5,4.4,1,8
+3373,Flumazenil,303.29,1.0,0,5
+3374,Flumequine,261.25,2.9,1,5
+3379,Nasalide,434.5,2.5,2,7
+3380,Flunitrazepam,313.28,2.1,0,5
+3382,Lidex,494.5,3.2,1,9
+3383,2-(6-Hydroxy-3-oxo-3H-xanthen-9-yl)benzoic acid,332.3,2.4,2,5
+3384,Fluoromethalone,376.5,2.0,2,5
+3385,Fluorouracil,130.08,-0.9,2,3
+3386,Fluoxetine,309.33,4.0,1,5
+3393,Flurazepam,387.9,3.0,0,4
+3394,Flurbiprofen,244.26,4.2,1,3
+3397,Flutamide,276.21,3.3,1,6
+3403,"(3S,5R,E)-7-(3-(4-fluorophenyl)-1-isopropyl-1H-indol-2-yl)-3,5-dihydroxyhept-6-enoic acid",411.5,3.5,3,5
+3404,2-[[5-Methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine,318.33,2.6,1,7
+3406,Fomepizole,82.1,1.4,1,1
+3410,Formoterol,344.4,1.8,4,5
+3414,Foscavir,122.98,-1.3,0,5
+3415,Foscarnet,126.01,-2.0,3,5
+3434,Levofuraltadone,324.29,0.8,0,8
+3435,Furoxone,225.16,-0.1,0,6
+3440,Furosemide,330.74,2.0,3,7
+3446,Gabapentin,171.24,-1.1,2,3
+3463,Gemfibrozil,250.33,3.8,1,3
+3468,Gentian violet cation,372.5,4.9,0,2
+3475,Gliclazide,323.4,1.5,2,4
+3476,Glimepiride,490.6,3.9,3,5
+3478,Glipizide,445.5,1.9,3,6
+3485,Glutaral,100.12,-0.5,0,2
+3487,Glutethimide,217.26,1.9,1,2
+3488,Glyburide,494.0,4.8,3,5
+3494,Glycopyrronium bromide,318.4,3.1,1,3
+3510,Granisetronum,312.4,2.8,1,3
+3512,Gris-PEG,352.8,2.2,0,6
+3516,Guaifenesin,198.22,1.4,2,4
+3517,"2-[(2,6-Dichlorophenyl)methylideneamino]guanidine",231.08,1.7,2,2
+3518,Guanethidine,198.31,0.5,2,2
+3519,Guanfacine,246.09,2.0,2,1
+3553,"Pregn-4-ene-3,20-dione, 21-chloro-9-fluoro-11-hydroxy-16,17-[(1-methylethylidene)bis(oxy)]-, (11beta,16alpha)-",455.0,3.6,1,6
+3559,Haloperidol,375.9,3.2,1,4
+3561,Haloprogin,361.4,4.6,0,1
+3562,Halothane,197.38,2.3,0,3
+3564,Harmaline,214.26,2.1,1,2
+3590,Heptaminol,145.24,0.7,2,2
+3592,Harry,369.4,1.5,0,6
+3610,Hexylresorcinol,194.27,3.5,2,2
+3623,Homotropine,275.34,1.9,1,4
+3637,Hydralazine,160.18,0.7,2,4
+3639,Hydrochlorothiazide,297.7,-0.1,3,7
+3651,4-(2-Aminopropyl)phenol,151.21,1.4,2,2
+3652,Hydroxychloroquine,335.9,3.6,2,4
+3657,Hydroxyurea,76.055,-1.8,3,2
+3658,Hydroxyzine,374.9,3.7,1,4
+3661,L-Hyoscyamine,289.4,1.8,1,4
+3672,Ibuprofen,206.28,3.5,1,2
+3675,Phenelzine,136.19,1.2,2,2
+3676,Lidocaine,234.34,2.3,1,2
+3677,Mephentermine,163.26,2.4,1,1
+3686,Idebenone,338.4,4.3,1,5
+3687,"Uridine, 2'-deoxy-5-iodo-",354.1,-1.0,3,5
+3690,Ifosfamide,261.079,0.9,1,4
+3696,Imipramine,280.4,4.8,0,2
+3698,Amrinone,187.2,-0.2,2,3
+3702,Indapamide,365.8,2.9,2,5
+3715,Indomethacin,357.8,4.3,1,4
+3718,Indoprofen,281.3,2.8,1,3
+3746,Atrovent,332.5,2.6,1,3
+3748,Iproniazid,179.22,0.4,2,3
+3749,Irbesartan,428.5,4.1,1,5
+3759,Isocarboxazid,231.25,1.5,2,4
+3762,Isoetharine,239.31,1.7,4,4
+3763,Isoflurane,184.49,2.1,0,6
+3767,Isoniazid,137.14,-0.7,2,3
+3775,Isopropamide,353.5,4.3,1,1
+3776,Isopropyl Alcohol,60.1,0.3,1,1
+3778,Propyphenazone,230.31,1.7,0,2
+3779,Isoproterenol,211.26,-0.6,4,4
+3781,Isothipendyl,285.4,3.5,0,4
+3783,Duvadilan,301.4,2.8,3,4
+3784,Isradipine,371.4,4.3,1,8
+3821,Ketamine,237.72,2.2,1,2
+3824,Kebuzone,322.4,1.2,0,3
+3825,Ketoprofen,254.28,3.1,1,3
+3826,Ketorolac,255.27,1.9,1,3
+3827,Ketotifen,309.4,3.2,0,3
+3869,Labetalol,328.4,3.1,4,4
+3878,Lamotrigine,256.089,1.4,2,5
+3883,Lansoprazole,369.4,2.8,1,8
+3899,Leflunomide,270.21,2.5,1,6
+3902,Letrozole,285.3,2.7,0,4
+3913,Tetramisole,204.29,1.8,0,2
+3948,Lomefloxacin,351.35,-0.8,2,8
+3950,Lomustine,233.69,2.8,1,3
+3958,Lorazepam,321.2,2.4,2,3
+3961,Losartan,422.9,4.3,2,5
+3962,Mevacor,404.5,4.3,1,5
+3964,Loxapine,327.8,3.1,0,3
+3965,Loxoprofen,246.3,2.4,1,3
+3998,Mafenide,186.23,-0.7,2,4
+4004,Malathion,330.4,2.4,0,8
+4011,Maprotiline,277.4,4.6,1,1
+4020,Mazindol,284.74,2.2,1,2
+4021,Edaravone,174.2,1.3,0,2
+4030,Mebendazole,295.29,2.8,2,4
+4032,Mecamylamine,167.29,2.6,1,1
+4033,Mechlorethamine,156.05,0.9,0,1
+4039,Meclofenoxate,257.709,2.5,0,4
+4041,Medazepam,270.75,4.4,0,2
+4042,Aragest,386.5,4.1,0,4
+4045,Mefexamide,280.36,2.0,1,4
+4046,Lariam,378.31,3.6,2,9
+4047,Mefruside,382.9,0.9,1,7
+4054,Memantine,179.3,3.3,1,1
+4055,Menadione,172.18,2.2,0,2
+4057,Mepenzolate,340.4,3.2,1,3
+4058,Meperidine,247.33,2.5,0,3
+4059,Mephenesin,182.22,1.4,2,3
+4060,Mephenytoin,218.25,1.5,1,2
+4062,Mepivacaine,246.35,1.9,1,2
+4064,Meprobamate,218.25,0.7,2,4
+4075,Mesalamine,153.14,1.3,3,4
+4078,Mesoridazine,386.6,4.5,0,5
+4086,Metaproterenol,211.26,0.7,4,4
+4091,Metformin,129.16,-1.3,3,1
+4095,Methadone,309.4,3.9,0,2
+4097,Methantheline,340.4,3.3,0,3
+4098,Methapyrilene,261.39,2.6,0,4
+4099,Metharbital,198.22,1.2,1,3
+4100,Methazolamide,236.3,0.1,1,6
+4101,Methenamine,140.19,0.3,0,4
+4107,Methocarbamol,241.24,0.6,2,5
+4114,Methoxsalen,216.19,1.9,0,4
+4116,Methoxyflurane,164.96,2.2,0,3
+4120,Pamine,318.4,1.3,1,4
+4121,Methyclothiazide,360.2,1.4,2,7
+4133,Methyl Salicylate,152.15,2.3,1,3
+4138,3-Hydroxy-alpha-methyl-DL-tyrosine,211.21,-1.9,4,5
+4140,Methergine,339.4,2.3,3,3
+4158,Methylphenidate,233.31,0.2,1,3
+4159,A-Methapred,374.5,1.9,3,5
+4162,Methyprylon,183.25,0.8,1,2
+4167,Metixene,309.5,4.9,0,2
+4168,Metoclopramide,299.79,2.6,2,4
+4170,Metolazone,365.8,4.1,2,5
+4171,Metoprolol,267.36,1.9,2,4
+4173,Metronidazole,171.15,0.0,1,4
+4174,Metyrapone,226.27,2.0,0,3
+4178,Mexiletine,179.26,2.1,1,2
+4184,Mianserin,264.4,3.4,0,2
+4192,Midazolam,325.8,2.5,0,3
+4195,Midodrine,254.28,-0.6,3,5
+4197,Milrinone,211.22,0.0,1,3
+4201,Minoxidil,209.25,1.2,3,3
+4205,Mirtazapine,265.35,3.3,0,3
+4235,Moclobemide,268.74,1.5,1,3
+4236,Modafinil,273.4,1.7,1,3
+4249,Moperone,355.4,3.0,1,4
+4284,Diethyltoluamide,191.27,2.0,0,1
+4409,Nabumetone,228.29,3.1,0,2
+4411,Solgol,309.4,0.7,4,5
+4413,Nafamostat,347.4,2.0,4,4
+4417,Nafronyl,383.5,4.8,0,4
+4421,Nalidixic Acid,232.23,1.4,1,5
+4436,Naphazoline,210.27,2.1,1,1
+4440,Naratriptan,335.5,2.0,2,4
+4449,Nefazodone,470.0,4.3,0,5
+4450,Nefopam,253.34,2.9,0,2
+4456,Neostigmine,223.29,1.5,0,2
+4463,Nevirapine,266.3,2.0,1,4
+4472,Nialamide,298.34,0.9,3,4
+4474,Nicardipine,479.5,3.8,1,8
+4477,Niclosamide,327.12,4.0,2,4
+4485,Nifedipine,346.3,2.2,1,7
+4488,Niflumic acid,282.22,3.7,2,7
+4493,Nilutamide,317.22,2.0,1,7
+4495,Nimesulide,308.31,2.6,1,6
+4497,Nimodipine,418.4,3.1,1,8
+4499,Nisoldipine,388.4,3.3,1,7
+4506,Nitrazepam,281.27,2.2,1,4
+4507,Nitrendipine,360.4,2.9,1,7
+4509,"1-[(5-Nitro-2-furanyl)methylideneamino]imidazolidine-2,4-dione",238.16,-0.5,1,6
+4510,Nitroglycerin,227.09,1.6,0,9
+4511,Nitromide,211.13,0.8,1,5
+4513,Nizatidine,331.5,1.6,2,8
+4528,Nomifensine,238.33,2.6,1,2
+4534,Nordihydroguaiaretic acid,302.4,4.3,4,4
+4536,17alpha-Ethinyl-19-nortestosterone,298.4,3.0,1,2
+4538,Norfenefrine,153.18,-0.8,3,3
+4539,Norfloxacin,319.33,-1.0,2,7
+4541,Norfluoxetine,295.3,3.5,1,5
+4542,Ovrette,312.4,3.3,1,2
+4543,Nortriptyline,263.4,4.5,1,1
+4567,Nylidrin,299.4,3.5,3,3
+4581,Octopamine,153.18,-1.1,3,3
+4583,Ofloxacin,361.4,-0.4,1,8
+4594,Omeprazole,345.4,2.2,1,6
+4595,Ondansetron,293.4,2.3,0,2
+4601,Orphenadrine,269.4,3.8,0,2
+4603,Ethyl 4-acetamido-5-amino-3-pentan-3-yloxycyclohexene-1-carboxylate,312.4,1.1,2,5
+4612,Oxamniquine,279.33,2.2,3,5
+4614,Oxaprozin,293.3,4.2,1,4
+4616,Oxazepam,286.71,2.2,2,3
+4621,Oxethazaine,467.6,3.8,1,4
+4622,Oxibendazole,249.27,2.4,2,4
+4631,Oxprenolol,265.35,2.1,2,4
+4632,Oxybenzone,228.24,3.6,1,3
+4633,Oxybuprocaine,308.4,3.1,1,5
+4634,Oxybutynin,357.5,4.2,1,4
+4635,Percodan,315.4,1.2,1,5
+4636,Oxymetazoline,260.37,2.9,2,2
+4640,Oxypertine,379.5,4.3,1,4
+4641,Oxyphenbutazone,324.4,2.7,1,3
+4642,Oxyphencyclimine,344.4,2.9,1,4
+4649,4-Aminosalicylic acid,153.14,1.3,3,4
+4655,Pholedrine,165.23,1.7,2,2
+4678,Panthenol,205.25,-0.9,4,4
+4679,Pantoprazole,383.4,2.4,1,9
+4680,Papaverine,339.4,3.9,0,5
+4687,Paraxanthine,180.16,-0.2,1,3
+4688,Pargyline,159.23,2.1,0,1
+4723,Pemoline,176.17,0.9,1,2
+4724,1-(Tert-butylamino)-3-(2-cyclopentylphenoxy)propan-2-ol,291.4,4.2,2,3
+4727,DL-Penicillamine,149.21,-1.8,3,4
+4731,"3,3-Dimethyl-7-oxo-6-[(phenoxyacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",350.4,2.1,2,6
+4735,Pentamidine,340.4,2.6,4,4
+4736,Talwin,285.4,3.3,1,2
+4737,Pentobarbital,226.27,2.1,2,3
+4740,Pentoxifylline,278.31,0.3,0,4
+4747,Periciazine,365.5,3.5,1,5
+4748,Perphenazine,404.0,4.2,1,5
+4753,Phenacemide,178.19,0.9,2,2
+4754,Phenacetin,179.22,1.6,1,2
+4756,Phenazopyridine,213.24,1.9,2,5
+4757,Phenazine,180.2,2.8,0,2
+4760,Phenindione,222.24,2.9,0,2
+4761,Pheniramine,240.34,2.8,0,2
+4762,Phenmetrazine,177.24,1.4,1,2
+4763,Phenobarbital,232.23,1.5,2,3
+4768,Phenoxybenzamine,303.8,4.4,0,2
+4771,Phentermine,149.23,1.9,1,1
+4781,Phenylbutazone,308.4,3.2,0,2
+4782,3-[1-Hydroxy-2-(methylamino)ethyl]phenol,167.2,-0.3,3,3
+4787,"4-oxo-5,5-diphenyl-4,5-dihydro-1H-imidazol-2-olate",251.26,3.1,1,3
+4806,Phthalylsulfathiazole,403.4,1.1,3,8
+4810,Moxonidine,241.68,0.6,2,4
+4823,Pimobendan,334.4,2.7,2,4
+4826,Pinacidil,245.32,2.7,2,3
+4828,Pindolol,248.32,1.8,3,3
+4829,Pioglitazone,356.4,3.8,1,5
+4830,Pipamperone,375.5,2.0,1,5
+4831,Pipemidic Acid,303.32,-2.1,2,8
+4832,Pipenzolate,354.5,3.6,1,3
+4837,Piperazine,86.14,-1.5,2,2
+4839,Piperidolate,323.4,4.4,0,3
+4842,Pipobroman,356.05,0.4,0,2
+4843,Piracetam,142.16,-1.3,1,2
+4845,Pirbuterol,240.3,-0.1,4,5
+4849,Piretanide,362.4,2.2,2,7
+4855,Piromidic acid,288.3,1.3,1,7
+4883,Practolol,266.34,0.8,3,4
+4884,Duodote,137.16,1.0,1,2
+4885,"N6-propyl-4,5,6,7-tetrahydro-1,3-benzothiazole-2,6-diamine",211.33,1.9,2,4
+4886,Pramoxine,293.4,3.1,0,4
+4890,Prazepam,324.8,3.6,0,2
+4891,Praziquantel,312.4,2.7,0,2
+4893,Prazosin,383.4,2.0,1,8
+4895,"11,17-Dihydroxy-3,20-dioxopregna-1,4-dien-21-yl acetate",402.5,2.4,2,6
+4900,"1,4-Pregnadiene-17alpha,21-diol-3,11,20-trione",358.4,1.5,2,5
+4904,Pridinol,295.4,3.8,1,2
+4906,Prilocaine,220.31,2.1,2,2
+4908,Primaquine,259.35,2.2,2,4
+4909,Primidone,218.25,0.9,2,2
+4911,Probenecid,285.36,3.2,1,5
+4913,Procainamide,235.33,0.9,2,3
+4914,Procaine,236.31,1.9,1,4
+4915,Procarbazine,221.3,0.1,3,3
+4917,Prochlorperazine,373.9,4.9,0,4
+4919,Procyclidine,287.4,4.1,1,2
+4922,Proglumide,334.4,2.4,2,4
+4923,1-[Amino-(4-chloroanilino)methylidene]-2-propan-2-ylguanidine,253.73,1.5,3,1
+4926,Promazine,284.4,4.5,0,3
+4927,Promethazine,284.4,4.8,0,3
+4928,Prometon,225.29,3.0,2,6
+4931,Propachlor,211.69,2.2,0,1
+4932,Propafenone,341.4,3.3,2,4
+4934,Propantheline,368.5,4.2,0,3
+4935,Proparacaine,294.39,2.7,1,5
+4938,Propentofylline,306.36,0.7,0,4
+4940,Propiomazine,340.5,4.8,0,4
+4943,Propofol,178.27,3.8,1,1
+4946,Propranolol,259.339,3.0,2,3
+4949,Propyliodone,447.01,2.4,0,4
+4969,Protokylol,331.4,2.1,4,6
+4976,Protriptyline,263.4,4.4,1,1
+4977,Proxyphylline,238.24,-0.8,1,4
+4980,Psilocin,204.27,2.1,2,2
+4991,Pyridostigmine,181.21,0.7,0,2
+4992,Pyrilamine,285.4,3.3,0,4
+4993,Pyrimethamine,248.71,2.7,2,4
+4994,Pyrithyldione,167.2,1.0,1,2
+4999,Quazepam,386.8,4.0,0,6
+5002,Quetiapine,383.5,2.1,1,5
+5029,Rabeprazole,359.4,1.9,1,6
+5037,Ramifenazone,245.32,1.6,1,3
+5038,Quark,416.5,1.4,2,6
+5039,Ranitidine,314.41,0.3,2,7
+5056,"1,3-Benzenediol, 5-[(1Z)-2-(4-hydroxyphenyl)ethenyl]-",228.24,3.1,3,3
+5070,Riluzole,234.2,3.6,1,7
+5071,Rimantadine,179.3,2.6,1,1
+5073,Risperidone,410.5,2.7,0,6
+5077,Exelon,250.34,2.3,0,3
+5078,Rizatriptan,269.34,1.7,1,3
+5090,Rofecoxib,314.4,2.3,0,4
+5094,Ronidazole,200.15,-0.4,1,5
+5095,Ropinirole,260.37,2.7,1,2
+5143,Saccharin,183.19,0.9,1,3
+5147,Salicylamide,137.14,1.3,2,2
+5152,Salmeterol,415.6,3.9,4,5
+5161,Salsalate,258.23,3.0,2,5
+5184,(-)-Scopolamine,303.35,0.9,1,5
+5193,Secobarbital,238.28,2.0,2,3
+5206,Sevoflurane,200.05,2.8,0,8
+5215,Sulfadiazine,250.28,-0.1,2,6
+5253,Sotalol,272.37,0.2,3,5
+5267,Duraspiron,416.6,2.9,0,5
+5291,Imatinib,493.6,3.5,2,7
+5311,Vorinostat,264.32,1.9,3,3
+5314,Succinylcholine,290.4,0.6,0,4
+5315,Succinylsulfathiazole,355.4,-0.7,3,8
+5319,Sulfabenzamide,276.31,0.7,2,4
+5320,Sulfacetamide,214.24,-1.0,2,4
+5322,Sulfacytine,294.33,0.1,2,4
+5323,Sulfadimethoxine,310.33,1.6,2,8
+5324,Sulfaguanidine,214.25,-0.7,3,4
+5325,Sulfamerazine,264.31,0.1,2,6
+5326,Sulfameter,280.31,0.4,2,7
+5327,Sulfamethazine,278.33,0.3,2,6
+5328,Sulfamethizole,270.3,0.5,2,7
+5329,Sulfamethoxazole,253.28,0.9,2,6
+5330,Sulfamethoxypyridazine,280.31,0.3,2,7
+5332,Sulfamonomethoxine,280.31,0.8,2,7
+5333,Sulfanilamide,172.21,-0.6,2,4
+5334,Sulfanitran,335.34,2.0,2,6
+5335,Sulfaphenazole,314.4,1.5,2,5
+5336,Sulfapyridine,249.29,0.0,2,5
+5338,Sulfaquinoxaline,300.34,1.7,2,6
+5340,Sulfathiazole,255.3,0.1,2,6
+5342,Sulfinpyrazone,404.5,2.3,0,4
+5343,Sulfisomidine,278.33,1.2,2,6
+5344,Sulfisoxazole,267.31,1.0,2,6
+5355,Sulpiride,341.4,0.6,2,6
+5357,Sultopride,354.5,1.6,1,5
+5358,Sumatriptan,295.4,0.9,2,4
+5359,Suprofen,260.31,3.3,1,4
+5362,Suxibuzone,438.5,3.6,1,6
+5379,Gatifloxacin,375.4,-0.7,2,8
+5381,Tazarotene,351.5,4.9,0,4
+5391,Temazepam,300.74,2.2,1,3
+5394,Temozolomide,194.15,-1.1,1,5
+5401,Terazosin,387.4,1.4,1,8
+5403,Terbutaline,225.28,0.9,4,4
+5408,17-Hydroxyandrost-4-en-3-one,288.4,3.3,1,2
+5411,Tetracaine,264.36,3.7,1,4
+5426,Thalidomide,258.23,0.3,1,4
+5429,Theobromine,180.16,-0.8,1,3
+5430,Thiabendazole,201.25,2.5,1,3
+5453,Thiotepa,189.22,0.5,0,4
+5454,Navan,443.6,3.8,0,6
+5468,Tiaprofenic Acid,260.31,3.3,1,4
+5478,"1-(Tert-butylamino)-3-{[4-(morpholin-4-yl)-1,2,5-thiadiazol-3-yl]oxy}propan-2-ol",316.42,1.8,2,8
+5479,Tinidazole,247.27,-0.4,0,5
+5483,Tiopronin,163.2,-0.1,3,4
+5497,Nikethamide,178.23,0.3,0,2
+5503,Tolazamide,311.4,1.5,2,4
+5504,Tolazoline,160.22,2.6,1,1
+5505,Tolbutamide,270.35,2.3,2,3
+5509,Tolmetin,257.279,2.8,1,3
+5523,Ultram,263.37,2.6,1,3
+5524,Tramazoline,215.29,2.0,2,1
+5526,Tranexamic acid,157.21,-2.0,2,3
+5530,Parnate,133.19,1.5,1,1
+5531,Trapidil,205.26,1.7,0,4
+5533,Trazodone,371.9,2.8,0,4
+5543,Triallate,304.7,4.4,0,2
+5544,Mycolog,394.4,1.2,4,7
+5546,Triamterene,253.26,1.0,3,7
+5556,Triazolam,343.2,2.4,0,3
+5560,Trichlormethiazide,380.7,0.6,3,7
+5565,Trientine,146.23,-2.5,4,4
+5567,Trifluperidol,409.4,3.5,1,7
+5572,Trihexyphenidyl,301.5,4.5,1,2
+5573,Trimebutine,387.5,4.0,0,6
+5574,Trimeprazine,298.4,4.7,0,3
+5576,Trimethadione,143.14,0.3,0,3
+5577,Trimethobenzamide,388.5,2.3,1,6
+5578,Trimethoprim,290.32,0.9,2,7
+5585,Trioxsalen,228.24,3.0,0,3
+5587,Tripelennamine,255.36,3.3,0,3
+5593,Tropicamide,284.35,1.5,1,3
+5603,Tuaminoheptane,115.22,2.4,1,1
+5606,Tulobuterol,227.73,2.3,2,2
+5625,Delavirdine,456.6,2.4,3,7
+5645,Alloursodeoxycholic acid,392.6,4.9,3,4
+5656,Venlafaxine,277.4,2.9,1,3
+5665,Vigabatrin,129.16,-2.2,2,3
+5666,Viloxazine,237.29,1.5,1,4
+5707,Xylazine,220.34,2.8,1,2
+5709,Xylometazoline,244.37,3.2,1,1
+5719,Zaleplon,305.33,1.0,0,4
+5732,Zolpidem,307.4,2.5,0,2
+5733,Zomepirac,291.73,2.8,1,3
+5734,Zonisamide,212.23,0.2,1,5
+5735,Zopiclone,388.8,0.5,0,7
+5743,Dexamethasone,392.5,1.9,3,6
+5744,Hydrocortisone Acetate,404.5,2.2,2,6
+5745,Cortisone Acetate,402.5,2.1,1,6
+5746,Mitomycin,334.33,-0.4,3,8
+5749,Oxyphenonium,348.5,4.1,1,3
+5753,Corticosterone,346.5,1.9,2,4
+5754,Hydrocortisone,362.5,1.6,3,5
+5755,Prednisolone,360.4,1.6,3,5
+5756,Estriol,288.4,2.5,3,3
+5757,Estradiol,272.4,4.0,2,2
+5760,"methyl (3S,4R)-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-4-carboxylate",303.35,2.3,0,5
+5775,Phentolamine,281.35,2.6,2,3
+5790,Floxuridine,246.19,-1.2,3,6
+5794,Piperonyl Butoxide,338.4,3.7,0,5
+5816,Epinephrine,183.2,-1.4,4,4
+5826,Dextroamphetamine,135.21,1.8,1,1
+5832,Norethindrone Acetate,340.5,3.5,0,3
+5833,Spironolactone,416.6,2.9,0,5
+5834,Prednisolone Acetate,402.5,2.4,2,6
+5852,Penicillamine,149.21,-1.8,3,4
+5853,Trichlorfon,257.43,0.5,1,4
+5858,Norethandrolone,302.5,3.3,1,2
+5859,Famphur,325.3,2.2,0,7
+5865,Prednisone,358.4,1.5,2,5
+5870,Estrone,270.4,3.1,1,2
+5876,Fluprednisolone,378.4,1.4,3,6
+5877,Methylprednisolone Acetate,416.5,2.7,2,6
+5878,Oxandrolone,306.4,3.7,1,3
+5881,Prasterone,288.4,3.2,1,2
+5904,Penicillin G,334.4,1.8,2,5
+5905,Idoxuridine,354.1,-1.0,3,5
+5906,Metaraminol,167.2,-0.4,3,3
+5910,Pilocarpine,208.26,1.1,0,3
+5917,Pentetrazol,138.17,0.1,0,3
+5918,Amifampridine,109.13,-0.5,2,3
+5936,Isoflurophate,184.15,1.2,0,4
+5944,Cantharidin,196.2,0.6,0,4
+5952,Desoxycorticosterone Acetate,372.5,3.1,0,4
+5953,Quinaglute,324.4,2.9,1,4
+5959,Chloramphenicol,323.13,1.1,3,5
+5961,Glutamine,146.14,-3.1,3,4
+5977,Chlorobutanol,177.45,2.0,1,1
+5983,Physostigmine,275.35,0.7,1,4
+5991,Ethinyl Estradiol,296.4,3.7,2,2
+5994,Progesterone,314.5,3.9,0,2
+5995,Testosterone Propionate,344.5,4.4,0,3
+6005,Apomorphine,267.32,2.3,2,3
+6009,Aminopyrine,231.29,1.0,0,3
+6010,Methyltestosterone,302.5,3.4,1,2
+6013,Testosterone,288.4,3.3,1,2
+6018,Tetrabenazine,317.4,2.9,0,4
+6024,Cephalothin,396.4,-0.4,2,8
+6034,Ethopabate,237.25,1.2,1,4
+6041,Phenylephrine,167.2,-0.3,3,3
+6047,Levodopa,197.19,-2.7,4,5
+6057,Tyrosine,181.19,-2.3,3,4
+6058,Cysteamine,77.15,-0.4,2,2
+6077,Acepromazine,326.5,4.2,0,4
+6082,Methoxamine,211.26,0.5,2,4
+6087,Methicillin,380.4,1.2,2,7
+6089,Dimethyltryptamine,188.27,2.5,1,1
+6090,"N,N-Diethyltryptamine",216.32,3.3,1,1
+6098,Cloxacillin,435.9,2.4,2,7
+6128,Androstenedione,286.4,2.7,0,2
+6151,Mebutamate,232.28,1.4,2,4
+6166,Desoxycortone,330.5,2.9,1,3
+6167,Colchicine,399.4,1.0,1,6
+6194,Uracil Mustard,252.09,0.5,2,3
+6196,Oxacillin,401.4,2.4,2,7
+6213,Dimethyl Sulfone,94.14,-0.4,0,2
+6215,Fluocinolone Acetonide,452.5,2.5,2,8
+6216,Triamcinolone Diacetate,478.5,1.9,2,9
+6230,Norethindrone,298.4,3.0,1,2
+6231,Norethynodrel,298.4,2.1,1,2
+6234,Cycloserine,102.09,-1.5,2,3
+6238,Hydroxyprogesterone,330.5,3.2,1,3
+6249,Ampicillin,349.4,-1.1,3,6
+6253,Cytarabine,243.22,-2.1,4,5
+6256,Trifluridine,296.2,-0.5,3,8
+6279,Medroxyprogesterone acetate,386.5,4.1,0,4
+6291,Mestranol,310.4,4.0,1,2
+6292,Methaqualone,250.29,2.5,0,2
+6300,Methandrostenolone,300.4,3.6,1,2
+6307,Quinethazone,289.74,1.2,3,5
+6317,Nifenalol,224.26,1.1,2,4
+6421,Trichloroacetic Acid,163.38,1.3,1,2
+6432,Perflutren,188.02,3.1,0,8
+6436,Triamcinolone Acetonide,434.5,2.5,2,7
+6446,Fluoxymesterone,336.4,2.4,2,4
+6465,Piperidione,169.22,0.8,1,2
+6468,Phencyclidine,243.4,3.6,0,1
+6469,Ethoheptazine,261.36,2.8,0,3
+6475,Chlorphenoxamine,303.8,4.1,0,2
+6476,Methsuximide,203.24,1.2,0,2
+6481,Isoaminile,244.37,3.6,0,2
+6488,Carbromal,237.09,1.5,2,2
+6503,Tromethamine,121.14,-2.9,4,4
+6603,Pempidine,155.28,2.3,0,1
+6613,Pantothenic Acid,219.23,-1.1,4,5
+6634,Sulfachlorpyridazine,284.72,1.0,2,6
+6662,Sulfisoxazole Acetyl,309.34,1.3,1,6
+6719,Diphacinone,340.4,3.7,0,3
+6726,Cyclizine,266.4,3.6,0,2
+6741,Methylprednisolone,374.5,1.9,3,5
+6762,Thiopropazate,446.0,4.8,0,6
+6795,Diquat,184.24,1.4,0,0
+6834,Brompheniramine,319.24,3.5,0,2
+6839,Phensuximide,189.21,0.8,0,2
+6849,1-Nitronaphthalene,173.17,3.2,0,2
+6857,Dimethisoquin,272.4,4.2,0,3
+6869,Penicillin V,350.4,2.1,2,6
+6883,Isosorbide Dinitrate,236.14,1.3,0,8
+6896,"2,6-Dimethylaniline",121.18,1.8,1,1
+6950,Dinoseb,240.21,3.6,1,5
+7027,Gluconolactone,178.14,-2.0,4,6
+7028,Pseudoephedrine,165.23,0.9,2,2
+7029,Diethylpropion,205.3,2.8,0,2
+7077,Phenyltoloxamine,255.35,3.9,0,2
+7108,Phenothiazine,199.27,4.2,1,2
+7187,Benzoyl Peroxide,242.23,3.5,0,4
+7430,Dichloran,207.01,2.9,1,3
+7439,"Carvone, (+/-)-",150.22,2.4,0,1
+7475,4-Nitroaniline,138.12,1.4,1,3
+7533,Cyclamic acid,179.24,0.6,2,4
+7541,Anilazine,275.5,3.0,1,4
+7558,Propylhexedrine,155.28,3.5,1,1
+7608,Cyclopentamine,141.25,2.9,1,1
+7618,Triethanolamine,149.19,-1.0,3,4
+7638,Monobenzone,200.23,3.4,1,2
+7741,Betazole,111.15,-0.4,2,2
+7753,"1,3-Dimethylpentylamine",115.22,1.9,1,1
+8005,N-butyl Chloride,92.57,2.6,0,0
+8226,Methylergonovine,339.4,2.3,3,3
+8249,Phenformin,205.26,-0.8,3,1
+8275,Talbutal,224.26,1.4,2,3
+8280,Paramethadione,157.17,0.8,0,3
+8293,Cythioate,297.3,1.6,1,7
+8549,"(R)-[(2S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol",324.4,2.9,1,4
+8593,Cinchophen,249.26,3.4,1,3
+8602,Chlorthenoxazine,211.64,2.1,1,2
+8609,Phenyl Aminosalicylate,229.23,3.2,2,4
+8612,Chloroprocaine,270.75,2.9,1,4
+8944,Anileridine,352.5,3.7,1,4
+8969,Yohimbine,354.4,2.9,2,4
+8982,Nafcillin,414.5,2.9,2,6
+9002,Tiron free acid,270.2,-0.7,4,8
+9015,Mequinol,124.14,1.3,1,2
+9034,Methohexital,262.3,2.3,1,3
+9047,Sulfalene,280.31,0.7,2,7
+9049,Cycloguanil,251.71,1.0,2,1
+9051,Dydrogesterone,312.4,3.8,0,2
+9053,Fluocortolone,376.5,2.4,2,5
+9270,Ethynodiol diacetate,384.5,3.9,0,4
+9294,Ephedrine,165.23,0.9,2,2
+9330,Benactyzine,327.4,2.6,1,4
+9331,Piritramide,430.6,3.7,1,4
+9363,Ethamivan,223.27,2.1,1,3
+9395,Paraoxon,275.19,2.0,0,6
+9417,Opipramol,363.5,3.6,1,4
+9419,Dibenzepin,295.4,2.7,0,3
+9429,Thioproperazine,446.6,3.7,0,7
+9444,Azacitidine,244.2,-2.2,4,5
+9454,Haloxon,415.6,3.3,0,6
+9642,Fluocinonide,494.5,3.2,1,9
+9651,Galantamine,287.35,1.8,1,4
+9681,Methysergide,353.5,2.3,2,3
+9701,Suprifen,181.23,0.6,3,3
+9782,Betamethasone,392.5,1.9,3,6
+9878,Fluorometholone,376.5,2.0,2,5
+9904,Nandrolone,274.4,2.6,1,2
+9982,Etilamfetamine,163.26,2.5,1,1
+10007,Chlorphentermine,183.68,2.6,1,1
+10083,Pipradrol,267.4,3.0,2,2
+10100,Propoxyphene,339.5,4.2,0,3
+10133,Chenodiol,392.6,4.9,3,4
+10257,Bufotenin,204.27,1.2,2,2
+10275,Amiphenazole,191.26,1.9,2,4
+10364,Carvacrol,150.22,3.1,1,1
+10391,Beclamide,197.66,1.7,1,1
+10413,4-Hydroxybutanoic acid,104.1,-0.6,2,3
+10548,Echothiophate,256.329,1.0,0,4
+10607,Podofilox,414.4,2.0,1,8
+10612,Dimethazan,251.29,-0.5,0,4
+10616,Ambucetamide,292.4,3.4,1,3
+10618,Noramidopyrine,217.27,0.8,1,3
+10631,Medroxyprogesterone,344.5,3.5,1,3
+10635,Androstanolone,290.4,3.7,1,2
+10767,Amylocaine,235.32,3.0,0,3
+10836,Methamphetamine,149.23,2.1,1,1
+10917,Levocarnitine,161.2,-0.2,1,3
+11020,Propallylonal,289.13,1.6,2,3
+11273,Formestane,302.4,2.6,1,3
+11291,Phenindamine,261.399,3.1,0,1
+11367,Diloxanide,234.08,2.0,1,2
+11487,Diphenylamine,169.22,3.5,1,1
+11683,Megestrol Acetate,384.5,3.1,0,4
+12035,Acetylcysteine,163.2,0.4,3,4
+12124,Metacetamol,151.16,0.7,2,2
+12454,Clopenthixol,401.0,4.3,1,4
+12460,Bontril,191.27,1.9,0,2
+12555,Benzydamine,309.4,3.9,0,3
+12597,Isosorbide,146.14,-1.4,2,4
+12894,Sulfamoxole,267.31,1.3,2,6
+12898,Tolylfluanid,347.3,3.9,0,6
+12901,Phosmet,317.3,2.8,0,6
+12938,Benzobarbital,336.3,3.3,1,4
+13109,Norgestrel,312.4,3.3,1,2
+13290,Methoprotryne,271.39,2.8,2,7
+13308,Boldenone,286.4,3.5,1,2
+13314,Lormetazepam,335.2,2.4,1,3
+13327,Clostebol acetate,364.9,4.7,0,3
+13450,Terbutryn,241.36,3.7,2,6
+13472,"Androsta-1,4-diene-3,17-dione",284.4,3.0,0,2
+13676,Fonofos,246.3,3.9,0,3
+13708,Methylparaoxon,247.14,1.3,0,6
+13755,Sulfaethoxypyridazine,294.33,0.7,2,7
+13756,Demoxepam,286.71,2.3,1,3
+13764,Akabar,275.22,2.1,2,6
+13769,Testolactone,300.4,3.0,0,3
+13789,Canrenone,340.5,2.7,0,3
+13904,Desmetryn,213.31,2.7,2,6
+14052,Ethambutol,204.31,-0.1,4,4
+14130,Bucetin,223.27,1.8,2,3
+14584,Fencamfamin,215.33,3.3,1,1
+14592,Prolintane,217.35,4.0,0,1
+14652,Zolimidine,272.32,2.7,0,3
+14670,Prothipendyl,285.4,3.4,0,4
+14707,Phenazocine,321.5,3.8,1,2
+15020,Mesterolone,304.5,4.1,1,2
+15130,Levomethadyl Acetate,353.5,4.3,0,3
+15139,Fluanisone,356.4,3.6,0,5
+15209,Flurandrenolide,436.5,1.4,2,7
+15331,Daminozide,160.17,-3.1,2,4
+15387,Melperone,263.35,3.3,0,3
+15415,Malaoxon,314.29,0.6,0,8
+15443,Azaperone,327.4,3.3,0,5
+15459,Metaxalone,221.25,2.2,1,3
+15478,Digoxigenin,390.5,1.1,3,5
+15546,Chloridazon,221.64,0.8,1,3
+15629,Monolinuron,214.65,2.3,1,2
+15664,Abametapir,184.24,2.2,0,2
+16106,Perlapine,291.4,2.8,0,2
+16115,Chloroxuron,290.74,3.5,1,2
+16124,Medronic Acid,176.0,-3.3,4,6
+16229,Bamifylline,385.5,1.2,1,5
+16231,Amiloride,229.63,-0.7,4,5
+16315,Diallyl trisulfide,178.3,2.6,0,3
+16351,Clothiapine,343.9,3.6,0,3
+16363,Benperidol,381.4,3.7,1,4
+16490,Flumethasone,410.5,1.9,3,7
+16533,Betamethasone Valerate,476.6,3.6,2,7
+16554,Cycluron,198.31,2.4,1,1
+16559,Lenacil,234.29,1.7,1,2
+16623,Hydrocortisone hemisuccinate,462.5,1.8,3,8
+16630,Aminorex,162.19,0.8,1,2
+16850,Fluorescein,332.3,3.4,2,5
+16882,Butoxycaine,293.4,4.6,0,4
+16886,"4-Amino-1-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,3,5-triazin-2-one",228.21,-1.2,3,4
+16960,Dexbrompheniramine,319.24,3.5,0,2
+17012,2-[4-[3-[2-(Trifluoromethyl)-9-thioxanthenylidene]propyl]-1-piperazinyl]ethanol,434.5,4.5,1,7
+17134,Sulfadoxine,310.33,0.7,2,8
+17182,Dixyrazine,427.6,3.7,1,6
+17336,Proxibarbal,226.23,0.2,3,4
+17358,Sulfur Hexafluoride,146.06,4.2,0,6
+17507,Dobesilic acid,190.18,-0.1,3,5
+17925,Delorazepam,305.2,3.1,1,2
+18087,Clopidol,192.04,2.6,1,2
+18283,Stavudine,224.21,-0.8,2,4
+18381,Dicloxacillin,470.3,2.9,2,7
+18538,Ethylnorepinephrine,197.23,-0.3,4,4
+19003,Cyclacillin,341.4,1.3,3,6
+19150,Cephaloglycin,405.4,-3.0,3,8
+19392,Aminopromazine,327.5,4.8,0,4
+19395,Sulfotep,322.3,3.9,0,7
+19493,Tranylcypromine,133.19,1.5,1,1
+19527,Fenethylline,341.4,1.4,1,4
+19675,Piperacetazine,410.6,4.0,1,5
+19687,Homofenazine,451.5,4.7,1,8
+19756,Fuberidazole,184.19,2.2,1,2
+19861,Azatadine,290.4,3.6,0,2
+20058,Uridine triacetate,370.31,-0.5,1,9
+20105,Dipropetryn,255.39,3.9,2,6
+20279,Cladribine,285.69,0.8,3,7
+20395,Fenbutrazate,367.5,4.3,0,4
+20469,Beclomethasone,408.9,2.2,3,5
+20824,Carbenicillin,378.4,1.1,3,7
+20848,Nitralin,345.37,3.7,0,7
+21207,Ditalimfos,299.28,3.5,0,5
+21319,Floxacillin,453.9,2.6,2,8
+21453,Diaveridine,260.29,1.0,2,6
+21704,Vidarabine,267.24,-1.1,4,8
+21722,Iprindole,284.4,4.6,0,1
+21777,Mefenorex,211.73,3.1,1,1
+21803,Chlorpyrifos-methyl,322.5,4.3,0,5
+21855,Dimethindene,292.4,2.7,0,2
+22188,Terbacil,216.66,1.9,1,2
+22206,Terbuthylazine,229.71,3.1,2,5
+22267,Levomethadone,309.4,3.9,0,2
+22276,Phenpromethamine,149.23,2.1,1,1
+22297,Isometheptene,141.25,2.5,1,1
+22379,Butanilicaine,254.75,2.1,2,2
+22419,Olsalazine,302.24,3.1,4,8
+22544,Chlordimeform,196.67,2.9,0,1
+23009,Nimorazole,226.23,-0.4,0,5
+23418,Ormetoprim,274.32,1.2,2,6
+23897,Molindone,276.37,1.7,1,3
+24066,Zalcitabine,211.22,-1.3,2,3
+24199,Hexocyclium,317.5,3.1,1,2
+24352,Propionylpromazine,340.5,4.7,0,4
+24685,Propham,179.22,2.6,1,2
+24744,Phenmedipham,300.31,3.6,2,4
+24841,Hydriodic acid,127.912,0.9,1,0
+24855,Iodine I-131,261.812,1.7,0,0
+25015,Trenbolone,270.4,1.9,1,2
+25146,Dialifor,393.8,3.8,0,6
+25249,Stanozolol,328.5,4.5,2,2
+25295,Chloropyramine,289.8,3.9,0,3
+25419,Clodronic Acid,244.89,-2.1,4,6
+25654,Reproterol,389.4,-0.5,4,7
+26070,"(1S,2R)-2-phenylcyclopropanamine",133.19,1.5,1,1
+26098,Azapropazone,300.36,4.0,0,3
+26133,Hydrocortisone Butyrate,432.5,3.2,2,6
+26216,Propiram,275.39,2.3,0,3
+26248,Diacerein,368.3,1.9,1,8
+26533,Tiletamine,223.34,2.0,1,3
+26757,Selegiline,187.28,2.8,0,1
+26879,Levamisole,204.29,1.8,0,2
+26934,Norephedrine,151.21,0.8,2,2
+26951,Ipronidazole,169.18,1.1,0,3
+27125,Estetrol,304.4,1.5,4,4
+27200,Thiamphenicol,356.2,-0.3,3,5
+27211,"1-(2,6-Dichlorophenyl)indolin-2-one",278.1,3.8,0,1
+27375,Chlorotoluron,212.67,2.4,1,1
+27400,Pizotyline,295.4,3.8,0,2
+27447,Cephalexin,347.4,0.6,3,6
+27453,Embutramide,293.4,2.7,2,3
+27661,Isosorbide Mononitrate,191.14,-0.4,1,6
+27689,Legurame,236.27,1.6,2,3
+27812,Gestrinone,308.4,2.2,1,2
+28061,Ornidazole,219.62,0.6,1,4
+28179,Fluoride Ion,18.998,0.6,0,1
+28329,Etamiphylline,279.34,0.3,0,4
+28417,Danazol,337.5,3.8,1,3
+28425,Benzoctamine,249.3,3.7,1,1
+28864,Lisuride,338.4,2.7,2,2
+29029,Cleocin (TN),425.0,2.2,4,7
+29393,Oryzalin,346.36,2.1,1,8
+29566,Taurolidine,284.4,-1.7,2,8
+30487,Phendimetrazine,191.27,1.9,0,2
+30623,Razoxane,268.27,-1.4,2,6
+30668,Lofexidine,259.13,2.6,1,2
+30699,Cephapirin,423.5,-1.1,2,9
+30773,Cyanazine,240.69,2.2,2,6
+30951,Alclofenac,226.65,2.5,1,3
+30974,Medibazine,386.5,4.8,0,4
+31068,Benzoylprop-ethyl,366.2,4.1,0,3
+31072,Carbimazole,186.23,0.7,0,3
+31307,Triamcinolone,394.4,1.2,4,7
+31348,Citrate,189.1,0.2,1,7
+31378,Fludrocortisone,380.4,1.7,3,6
+31401,Ursodiol,392.6,4.9,3,4
+31402,Pregnanolone,318.5,4.9,1,2
+31477,Metipranolol,309.4,2.7,2,5
+31508,Proquazone,278.3,3.0,0,1
+31593,Benznidazole,260.25,0.9,1,4
+31640,Halazepam,352.7,4.0,0,5
+31765,Sulforidazine,402.6,4.6,0,5
+31772,"N-(3-methyl-1,1-dioxo-1,4-thiazinan-4-yl)-1-(5-nitro-2-furanyl)methanimine",287.29,1.3,0,7
+32154,Propyzamide,256.12,3.2,1,1
+32170,Articaine,284.38,2.8,2,5
+32798,Clobetasol Propionate,467.0,3.8,1,6
+33036,Dexchlorpheniramine,274.79,3.4,0,2
+33196,Chimcoccid;Khimcoccid,334.2,3.8,2,3
+33309,Cambendazole,302.35,2.9,2,5
+33360,Ethofumesate,286.35,2.7,0,5
+33443,Secbumeton,225.29,3.2,2,6
+33572,Ritodrinium,287.35,2.3,4,4
+33613,Amoxicillin,365.4,-2.0,4,7
+33624,Timolol,316.42,1.8,2,8
+33625,Indoramin,347.5,4.1,2,2
+33741,Tramadol,263.37,2.6,1,3
+33746,Ketazolam,368.8,3.0,0,3
+33775,Norflurazon,303.67,2.3,1,6
+34055,Emepronium,282.4,4.8,0,0
+34312,Oxcarbazepine,252.27,1.7,1,2
+34633,Moricizine,427.5,3.0,1,6
+34870,Amineptine,337.5,2.1,2,3
+35370,Zidovudine,267.24,0.0,2,6
+35699,Isocarbamid,185.22,0.8,2,2
+35775,Zolazepam,286.3,1.7,0,4
+35802,Flubendazole,313.28,2.9,2,5
+35935,Pirprofen,251.71,2.9,1,3
+36273,Amdinocillin,325.4,2.1,1,5
+36339,Ethyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate,244.29,3.0,0,3
+36573,Acesulfame,163.15,-0.3,1,4
+36584,Terbumeton,225.29,3.1,2,6
+36679,Isoproturon,206.28,2.9,1,1
+36811,Dobutamine,301.4,3.4,4,4
+36870,Prothiofos,345.2,4.9,0,4
+36921,Ticarcillin,384.4,0.8,3,8
+37083,Norgestimato,369.5,4.1,1,4
+37125,Sulprofos,322.5,4.9,0,5
+37367,Camazepam,371.8,2.8,0,4
+37464,Penbutolol,291.4,4.2,2,3
+37497,Etidocaine,276.4,3.7,1,2
+37542,Ribavirin,244.2,-1.8,4,7
+37907,Climbazole,292.76,3.7,0,3
+37995,Etrimfos,292.29,3.2,0,7
+38081,Flunixin,296.24,4.1,2,7
+38103,Cephradine,349.4,0.4,3,6
+38521,Guanadrel,213.28,0.0,2,3
+38853,Methyldopa,211.21,-1.9,4,5
+38854,Metamitron,202.21,0.7,1,4
+38945,Tocainide,192.26,0.8,2,2
+39147,Nadolol,309.4,0.7,4,5
+39186,Diltiazem,414.5,3.1,0,6
+39327,Oxyfluorfen,361.7,4.7,0,7
+39468,Levobunolol,291.4,2.4,2,4
+39524,"1-Penten-3-ol, 1-(1,3-benzodioxol-5-yl)-4,4-dimethyl-",234.29,3.6,1,3
+39722,Dimethachlor,255.74,2.3,0,2
+39941,Benoxaprofen,301.72,4.1,1,4
+39985,Diclofop-methyl,341.2,4.8,0,4
+40000,Dexbudesonide,430.5,2.5,2,6
+40320,2-Amino-5-benzoylbenzimidazole,237.26,2.6,2,3
+40632,Pirfenidone,185.22,1.9,0,1
+40692,Mefloquine,378.31,3.6,2,9
+40854,Oxfendazole,315.3,2.3,2,5
+40973,Desogestrel,310.5,4.9,1,1
+41049,Meptazinol,233.35,3.4,1,2
+41574,Arprinocid,277.68,2.4,1,5
+41684,Nitazoxanide,307.28,2.0,1,7
+41693,Sufentanil,386.6,4.0,0,4
+41781,Torsemide,348.4,2.7,3,5
+42113,Desflurane,168.04,2.6,0,7
+42850,Ofurace,281.73,2.7,0,3
+43231,Clorsulon,380.7,1.2,3,7
+43233,Azaconazole,300.14,2.3,0,4
+43678,Prosolvin; Reprodin,445.0,2.9,4,7
+43714,Cymiazole,218.32,3.0,0,2
+43815,Paroxetine,329.4,3.5,1,5
+44093,Captopril,217.29,0.3,2,4
+44564,Lodoxamide,311.63,0.5,4,7
+47811,Pergolide,314.5,4.2,1,2
+47965,Cefadroxil,363.4,-2.1,4,7
+50294,Nedocromil,371.3,2.2,2,8
+51039,Cefaclor,367.8,-1.8,3,6
+51040,Avobenzone,310.4,4.8,0,3
+51263,Alfentanil,416.5,2.2,0,6
+51634,Miglustat,219.28,-0.6,4,5
+52421,"[2-[(8S,9S,10R,11S,13S,14S,17R)-17-ethoxycarbonyloxy-11-hydroxy-10,13-dimethyl-3-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-yl]-2-oxoethyl] propanoate",488.6,4.2,1,8
+53174,Albendazole sulfone,297.33,1.6,2,5
+53232,Lovastatin,404.5,4.3,1,5
+53276,Flupirtine,304.32,2.4,3,6
+53518,Quizalofop-ethyl,372.8,4.3,0,6
+54385,Levocabastine,420.5,2.5,1,5
+54454,Simvastatin,418.6,4.7,1,5
+54585,Balsalazide,357.32,2.2,4,8
+54687,Pravastatin,424.5,1.6,4,7
+54746,Cabergoline,451.6,3.4,2,4
+54766,Bambuterol,367.4,1.2,2,6
+54841,Atomoxetine,255.35,3.7,1,2
+54892,Quinapril,438.5,1.2,2,6
+55191,Gepirone,359.5,1.8,0,6
+55245,Mifepristone,429.6,3.8,1,3
+55483,Dopexamine,356.5,2.5,4,4
+56052,Ractopamine,301.4,2.7,4,4
+56206,Difloxacin,399.4,1.6,1,8
+56208,Sarafloxacin,385.4,0.3,2,8
+56330,Cilazapril,417.5,0.6,2,7
+56339,Fosphenytoin,362.27,0.6,3,6
+56494,Fluorodopa F-18,214.18,-2.0,4,6
+56719,"(3S,5R)-7-[3-(4-fluorophenyl)-1-propan-2-yl-2-indolyl]-3,5-dihydroxy-6-heptenoic acid",411.5,3.5,3,5
+56959,Ranolazine,427.5,2.7,2,6
+57363,Finasteride,372.5,3.0,2,2
+57469,Imiquimod,240.3,2.6,1,3
+57537,"1-Naphthalenol, 5,6,7,8-tetrahydro-6-[propyl[2-(2-thienyl)ethyl]amino]-",315.5,4.9,1,3
+57697,Pemirolast,228.21,-0.3,1,5
+59227,Rotigotine,315.5,4.9,1,3
+59757,Tepoxalin,385.8,3.4,1,4
+59768,Esmolol,295.37,1.9,2,5
+60172,Adefovir,273.19,-2.0,3,8
+60198,Exemestane,296.4,3.1,0,2
+60464,Sparfloxacin,392.4,0.1,3,9
+60490,Zileuton,236.29,1.6,2,3
+60605,Orbifloxacin,395.4,0.9,2,9
+60606,Clopidogrel,321.8,3.8,0,4
+60612,Levomedetomidine,200.28,3.1,1,1
+60613,Cidofovir,279.19,-3.6,4,6
+60648,Tiagabine,375.6,2.7,1,5
+60651,Marbofloxacin,362.4,-0.5,1,9
+60654,"(3R)-10-oxo-8-azatricyclo[5.3.1.03,8]undec-5-yl 1H-indole-3-carboxylate",324.4,3.4,1,4
+60700,Topotecan,421.4,0.5,2,7
+60726,Bromfenac,334.16,3.3,2,4
+60750,Gemcitabine,263.2,-1.5,3,6
+60795,Aripiprazole,448.4,4.6,1,4
+60809,Xanomeline,281.42,3.3,0,5
+60815,Remifentanil,376.4,1.9,0,6
+60825,Lamivudine,229.26,-0.9,2,4
+60835,Duloxetine,297.4,4.3,1,3
+60846,Valsartan,435.5,4.4,2,6
+60854,Ziprasidone,412.9,4.0,1,5
+60857,Zolmitriptan,287.36,2.2,2,3
+60860,3-Iodobenzylguanidine,275.09,1.0,2,1
+60877,Emtricitabine,247.25,-0.6,2,5
+60918,1-[(5-Methoxy-3-indolylidene)methylamino]-2-pentylguanidine,301.39,2.6,3,3
+60937,Tiludronic Acid,318.61,-0.3,4,7
+60947,Tirofiban,440.6,1.4,3,7
+60953,Capecitabine,359.35,0.6,3,7
+60961,Adenosine,267.24,-1.1,4,8
+61120,Hydroxypethidine,263.33,2.1,1,4
+61810,Fenproporex,188.27,1.9,1,2
+62779,trans-Oxazolam,328.8,3.0,1,3
+62865,Cyamemazine,323.5,4.4,0,4
+62894,Halofuginona,414.7,1.4,2,5
+62929,(+)-Norgestrel,312.4,3.3,1,2
+62930,Norelgestromin,327.5,3.6,2,3
+63006,(22S)-Budesonide,430.5,2.5,2,6
+63021,Aygestin,340.5,3.5,0,3
+63345,Etodroxizine,419.0,3.6,1,5
+64139,Efavirenz,315.67,4.0,1,5
+64627,Rolofylline,356.5,4.9,1,3
+64782,Methylephedrine,179.26,1.7,1,2
+64929,Fenofibric Acid,318.7,3.9,1,4
+64952,N(4)-Acetylsulfadiazine,292.32,-0.2,2,6
+65028,Oseltamivir,312.4,1.1,2,5
+65526,4-(Aminomethyl)benzoic acid,151.16,-1.6,2,3
+65613,Clibucaine,315.2,3.4,1,2
+65628,Bendamustine,358.3,2.9,1,4
+65664,beta-Artesunate,384.4,2.5,1,8
+65682,Dimetamfetamine,163.26,2.7,0,1
+65720,Terizidone,302.29,-0.2,2,6
+65808,Dexverapamil,454.6,3.8,0,6
+65833,Milnacipran,246.35,1.4,1,2
+66359,Trenbolone Acetate,312.4,2.5,0,3
+68101,Bromanil,423.68,3.6,0,2
+68122,Histapyrrodine,280.4,4.1,0,2
+68313,Hordenine,165.23,2.1,1,2
+68437,Meconin,194.18,1.3,0,4
+68602,Medetomidine,200.28,3.1,1,1
+68614,Fludeoxyglucose F-18,181.15,-2.4,4,6
+68617,Sertraline,306.2,4.8,1,1
+68712,Rilmenidine,180.25,1.2,1,2
+68792,Fexinidazole,279.32,2.5,0,5
+68844,Brinzolamide,383.5,-0.3,2,9
+68861,Dienogest,311.4,1.8,1,3
+68873,Drospirenone,366.5,3.5,0,3
+68911,Artemether,298.37,3.1,0,5
+68916,Epiroprim,353.4,2.9,2,6
+68921,Hydrocortisone Aceponate,460.6,3.3,1,7
+68933,Sulfaperin,264.31,0.3,2,6
+68944,Ternidazole,185.18,-1.1,1,4
+69594,Clofenamide,270.7,-0.7,2,6
+70292,1-Methyl-2-nitro-1H-imidazole-5-methanol,157.13,-0.4,1,4
+70413,Opromazine,334.9,3.9,0,3
+70569,Pentifylline,264.32,2.3,0,3
+70864,Propipocaine,275.4,3.3,0,3
+70882,Moxaverine,307.4,4.8,0,3
+71158,Acamprosate,181.21,-1.2,2,4
+71183,Methscopolamine,318.4,1.3,1,4
+71184,Iobenguane I-131,279.09,1.0,2,1
+71186,Ibafloxacin,275.27,3.3,1,5
+71188,Enrofloxacin,359.4,-0.2,1,7
+71272,Metaclazepam,393.7,4.4,0,3
+71301,Nebivolol,405.4,3.0,3,7
+71329,Dofetilide,441.6,1.8,2,8
+71335,Danofloxacin,357.4,-0.3,1,7
+71360,Iloperidone,426.5,4.1,0,7
+71384,Dexrazoxane,268.27,-1.4,2,6
+71398,Masoprocol,302.4,4.3,4,4
+71414,Diflorasone Diacetate,494.5,3.0,1,9
+71415,Diflorasone,410.5,1.9,3,7
+71466,Isoetarine,239.31,1.7,4,4
+71616,Voriconazole,349.31,1.5,1,8
+71675,Clobenzorex,259.769,4.3,1,1
+71698,Mepindolol,262.35,2.3,3,3
+71739,Carazolol,298.4,3.6,3,3
+71740,Cafedrine,357.4,0.3,2,5
+71815,Secnidazole,185.18,0.2,1,4
+71905,Olaquindox,263.25,-0.2,2,5
+71969,Romifidine,258.089,1.4,2,2
+72009,Dembrexine,379.09,3.0,3,3
+72026,Epsiprantel,326.4,3.0,0,2
+72061,Oxymesterone,318.4,3.2,2,3
+72137,Tolycaine,278.35,2.7,1,4
+72157,Tioxidazole,266.32,3.2,1,5
+72287,Levomepromazine,328.5,4.7,0,4
+72474,Grepafloxacin,359.4,-0.2,2,7
+72666,4-Formylaminoantipyrine,231.25,0.0,1,3
+73665,Prochloraz,376.7,4.6,0,3
+75905,4-Styrenesulfonic acid,184.21,1.4,1,3
+75994,1-Benzylpiperazine,176.26,1.3,1,2
+76441,Brompyrazon,266.09,1.5,1,3
+77991,Rivastigmine,250.34,2.3,0,3
+77992,Frovatriptan,243.3,1.2,3,2
+77993,Eletriptan,382.5,4.1,1,3
+77999,Rosiglitazone,357.4,3.1,1,6
+82148,Agomelatine,243.3,2.7,1,2
+82153,Flunisolide,434.5,2.5,2,7
+86160,Spiroxamine,297.5,4.2,0,3
+86233,CID 86233,317.8,3.1,1,3
+86443,Oxasulfuron,406.4,1.6,2,8
+88125,Albendazole-2-aminosulfone,239.3,1.4,2,4
+89386,"(13-Ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl) acetate",369.5,4.1,1,4
+89594,Nicotine,162.23,1.2,0,2
+91270,Moexipril,498.6,1.2,2,8
+91488,Fluocinolone,412.4,1.1,4,8
+91503,Hydroquinidine,326.4,3.1,1,4
+91596,Ethidimuron,264.3,-0.2,1,6
+91677,Flurochloridone,312.11,3.4,0,4
+91724,Fenpiclonil,237.08,4.3,1,1
+91735,Diflufenican,394.3,4.6,1,8
+91752,Cadusafos,270.4,3.3,0,4
+91755,Flurtamone,333.3,4.5,1,6
+92099,Dextramycine,323.13,1.1,3,5
+92196,4-Methylaminorex,176.21,1.2,1,2
+92253,Levobupivacaine,288.4,3.4,1,2
+92389,Aclonifen,264.66,3.8,1,4
+92431,Clodinafop-Propargyl,349.7,3.9,0,6
+92786,Brexanolone,318.5,4.9,1,2
+92787,Allopregnanolone,318.5,4.9,1,2
+92879,Propicillin,378.4,2.7,2,6
+92943,Dextromoramide,392.5,3.8,0,3
+93055,Prednisolone Tebutate,458.6,4.1,2,6
+94532,"(1r,2s)-2-[Ethyl(methyl)amino]-1-phenylpropan-1-ol",193.28,2.1,1,2
+101105,Leucogen,295.36,-0.4,2,6
+101616,Lobeline,337.5,3.8,1,3
+102146,Bolasterone,316.5,3.6,1,2
+104150,Ethyl Butylacetylaminopropionate,215.29,1.2,0,3
+104800,Iodine-125,125.912,0.9,1,0
+104838,Imipenem,299.35,-0.7,3,6
+104845,Alfaxalone,332.5,3.2,1,3
+104881,3-Hydroxypregnan-20-one,318.5,4.9,1,2
+105031,"4-Oxo-4-[(1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.04,13.08,13]hexadecan-10-yl)oxy]butanoic acid",384.4,2.5,1,8
+105039,"3,4-Methylenedioxy-N-ethylamphetamine",207.27,2.5,1,3
+107689,"Lactic Acid, L-",90.08,-0.7,2,3
+107706,Sivelestat,434.5,3.0,3,8
+107807,Perindopril,368.5,0.9,2,6
+107970,Fingolimod,307.5,4.2,3,3
+108059,Segesterone Acetate,370.5,2.9,0,4
+110635,Tadalafil,389.4,2.3,1,4
+114682,1-beta-D-Arabinofuranosylcytosine,243.22,-2.1,4,5
+114789,Carbon-11,15.043,0.6,0,0
+114811,Florfenicol,358.2,0.8,2,5
+114992,Osaterone acetate,406.9,3.4,0,5
+115163,Amdinocillin Pivoxil,439.6,3.1,0,7
+115237,Paliperidone,426.5,2.2,1,7
+115355,Nitisinone,329.23,2.3,0,8
+119182,Clofarabine,303.68,0.9,3,8
+119236,Trichloroacetate,162.37,2.3,0,2
+119432,Ammonia N-13,16.03,-0.7,1,1
+119570,Pramipexole,211.33,1.9,2,4
+119607,Valdecoxib,314.4,2.6,1,5
+119828,Parecoxib,370.4,3.3,1,5
+121396,Carglumic Acid,190.15,-2.4,4,5
+121829,"Benzenesulfonamide, 5-(2-((2-(2-ethoxyphenoxy)ethyl)amino)propyl)-2-methoxy-",408.5,2.7,2,7
+121892,Ezogabine,303.33,2.8,3,5
+122142,"Methyl (1R,2R,5S)-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",303.35,2.3,0,5
+122252,N-Methyl-gamma-(1-naphthalenyloxy)-2-thiophenepropanamine,297.4,4.3,1,3
+123600,Levalbuterol,239.31,0.3,4,4
+123606,Almotriptan,335.5,1.6,1,4
+123619,Etoricoxib,358.8,3.3,0,4
+123631,Gefitinib,446.9,4.1,1,8
+124087,Desloratadine,310.8,4.5,1,2
+125017,Desvenlafaxine,263.37,2.6,2,3
+125098,Icaridin,229.32,2.0,1,3
+125516,Miridesap,340.37,0.0,2,6
+127151,Reboxetine,313.4,3.0,1,4
+127601,Isoursodeoxycholic acid,392.6,4.9,3,4
+127657,Triclabendazole sulfoxide,375.7,4.4,1,4
+128878,2-Iminobiotin,243.33,-0.2,3,4
+129211,Tamsulosin,408.5,2.7,2,7
+129228,Rufinamide,238.19,0.7,1,5
+129274,2-Hydroxycarbamazepine,252.27,2.1,2,2
+130904,Ulipristal Acetate,475.6,3.5,0,5
+131204,Dexpanthenol,205.25,-0.9,4,4
+131682,Safinamide,302.34,2.2,2,4
+132441,Fonturacetam,218.25,0.1,1,2
+132971,Abiraterone,349.5,4.6,1,2
+132999,Ivabradine,468.6,2.4,0,6
+134018,Febuxostat,316.4,3.9,1,6
+134601,Aspartame,294.3,-2.7,3,6
+134780,Pomalidomide,273.24,0.2,2,5
+135191,D-Xylose,150.13,-2.5,4,5
+135326,Iobenguane I-123,271.09,1.0,2,1
+145068,Nitric Oxide,30.006,0.2,0,1
+146570,Escitalopram,324.4,3.2,0,4
+149096,Levofloxacin,361.4,-0.4,1,8
+150310,CID 150310,414.5,1.4,0,6
+150311,Ezetimibe,409.4,4.0,2,5
+151075,Nepafenac,254.28,1.9,2,3
+151177,Monacolin K,404.5,4.3,1,5
+152946,Moxifloxacin,401.4,0.6,2,8
+153311,Transderm scop (TN),303.35,0.9,1,5
+153994,Clevidipine,456.3,4.3,1,7
+154059,Solifenacin,362.5,4.0,0,3
+154101,Dexmethylphenidate,233.31,0.2,1,3
+154417,Hyoscyamine,289.4,1.8,1,4
+156252,"4-Oxo-4-[[(1S,4S,5R,8S,9R,10R,12R,13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.04,13.08,13]hexadecan-10-yl]oxy]butanoic acid",384.4,2.5,1,8
+156391,Naproxen,230.26,3.3,1,3
+157920,Lubiprostone,390.5,4.0,2,7
+158696,"1H-1,2,4-Triazole-1-ethanol, beta-((2,4-dichlorophenyl)methyl)-alpha-(1,1-dimethylethyl)-, (alphaS,betaS)-",328.2,3.8,1,3
+158781,Olmesartan,446.5,3.2,3,7
+159269,Telbivudine,242.23,-1.2,3,5
+159324,Tipifarnib,489.4,4.1,1,3
+160883,Butylscopolamine,360.5,2.6,1,4
+161671,Withanolide D,470.6,3.1,2,6
+162136,Oxfendazole sulfone,331.3,2.3,2,5
+163091,Asenapine,285.8,3.8,0,2
+164522,Bepotastine,388.9,1.0,1,5
+164739,Levonordefrin,183.2,-0.8,4,4
+170033,"Benzenemethanol, 4-amino-3,5-dichloro-alpha-(((1,1-dimethylpropyl)amino)methyl)-",291.21,2.7,3,3
+170361,"6,10-Methano-6H-pyrazino[2,3-h][3]benzazepine, 7,8,9,10-tetrahydro-",211.26,0.8,1,3
+171548,Biotin,244.31,0.3,3,4
+172997,Lixivaptan,473.9,4.8,1,3
+174174,Atropine,289.4,1.8,1,4
+175805,Ropivacaine,274.4,2.9,1,2
+176870,Erlotinib,393.4,3.3,1,7
+179344,Eslicarbazepine Acetate,296.32,2.0,1,3
+182137,Esketamine,237.72,2.2,1,2
+185460,Bilastine,463.6,2.3,1,5
+189562,Dexnebivolol,405.4,3.0,3,7
+189821,Deflazacort,441.5,2.0,1,7
+192156,"[2-[(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-10,13-dimethyl-3-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-yl]-2-oxo-ethyl] acetate",402.5,2.4,2,6
+192254,Norursodeoxycholic acid,378.5,4.6,3,4
+193962,Etravirine,435.3,4.5,2,7
+197060,Ibogaine,310.4,3.9,1,2
+197785,Fenpiprane,279.4,4.9,0,1
+203911,Deptropine,333.5,4.8,0,2
+208902,Ramelteon,259.339,2.7,1,2
+208910,Firocoxib,336.4,2.2,0,5
+213027,"1-[(2-Chloro-1,3-thiazol-5-yl)methyl]-2-methyl-3-nitroguanidine",249.68,1.2,2,5
+213031,Fenhexamid,302.2,4.4,2,2
+213053,Cimicoxib,381.8,2.9,1,6
+214347,Dapivirine,329.4,4.8,2,5
+214348,Deferasirox,373.4,3.8,3,6
+216210,Dabigatran,471.5,1.7,4,7
+216237,Tolvaptan,448.9,4.8,2,3
+216239,Sorafenib,464.8,4.1,3,7
+216326,Lenalidomide,259.26,-0.5,2,4
+217246,Clenproperol,263.16,2.0,3,3
+219078,Lacosamide,250.29,0.3,2,3
+221493,Cholic Acid,408.6,3.6,4,5
+222528,Deoxycholic Acid,392.6,4.9,3,4
+222757,Estradiol Benzoate,376.5,4.5,1,3
+222786,Cortisone,360.4,1.5,2,5
+223253,Hydrocortisone Cypionate,486.6,4.7,2,6
+224246,Isoflupredone Acetate,420.5,1.5,2,7
+225609,Fludrocortisone Acetate,422.5,1.7,2,7
+236702,Dexamethasone acetate,434.5,2.8,2,7
+240767,Fluorometholone Acetate,418.5,2.6,1,6
+247704,(S)-adrenaline,183.2,-1.4,4,4
+247839,Medrysone,344.5,2.7,1,3
+250948,Melengestrol Acetate,396.5,3.1,0,4
+251636,Mibolerone,302.5,3.2,1,2
+252372,Methenolone Acetate,344.5,4.4,0,3
+260003,1-Carboxycyclohexaneacetic acid,186.2,1.2,2,4
+262961,3beta-Hydroxy-5alpha-pregnan-20-one,318.5,4.9,1,2
+275196,Noscapine,413.4,2.7,0,8
+351835,17beta-Hydroxyandrost-4-en-3-one acetate,330.5,3.9,0,3
+365753,"[(3R,7S,8S,8aR)-8-[2-[(2S,4S)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] 2-methylbutanoate",404.5,4.3,1,5
+400772,"7-bromo-6-chloro-3-(3-((2S,3R)-3-hydroxypiperidin-2-yl)-2-oxopropyl)quinazolin-4(3H)-one",414.7,1.4,2,5
+411697,Dicodid,299.4,2.2,0,4
+439260,Norepinephrine,169.18,-1.2,4,4
+439655,D-tartaric acid,150.09,-1.9,4,6
+439693,Pentostatin,268.27,-2.1,4,6
+441071,Strychnine,334.4,1.9,0,3
+441073,Quinoline alkaloid,324.4,2.9,1,4
+441074,Quinidine,324.4,2.9,1,4
+441130,Meropenem,383.5,-2.4,3,7
+441140,Griseofulvin,352.8,2.2,0,6
+441199,Cefoxitin,427.5,0.0,3,9
+441233,(1R)-2-phenylcyclopropan-1-amine,133.19,1.5,1,1
+441278,Pentazocine,285.4,3.3,1,2
+441300,Abacavir,286.33,0.9,3,6
+441302,Epiandrosterone,290.4,3.7,1,2
+441335,Mometasone,427.4,2.7,2,4
+441350,Metyrosine,195.21,-1.6,3,4
+441397,Bacampicillin,465.5,2.7,2,9
+441401,Linezolid,337.35,0.7,1,6
+441407,Hydrocortisone phosphate,442.4,0.0,4,8
+441457,Cathine,151.21,0.8,2,2
+442292,Picrotoxinin,292.28,0.5,1,6
+443387,Hetacillin,389.5,-0.6,2,6
+443872,Eplerenone,414.5,1.4,0,6
+443884,Ergonovine,325.4,1.8,3,3
+443928,Paramethasone Acetate,434.5,2.5,2,7
+443938,"1-azabicyclo[2.2.2]octan-3-yl (1S)-1-phenyl-3,4-dihydro-1H-isoquinoline-2-carboxylate",362.5,4.0,0,3
+443943,Halcinonide,455.0,3.6,1,6
+443967,Betamethasone Acetate,434.5,2.8,2,7
+443980,Flumethasone Pivalate,494.6,3.9,2,8
+444008,Tibolone,312.4,2.4,1,2
+444025,Loteprednol Etabonate,466.9,3.9,1,7
+444031,Darifenacin,426.5,4.6,1,3
+444305,L-Tartaric acid,150.09,-1.9,4,6
+445154,Resveratrol,228.24,3.1,3,3
+446155,"(3R,5S)-Fluvastatin",411.5,3.5,3,5
+446220,Cocaine,303.35,2.3,0,5
+446541,Mycophenolic Acid,320.3,3.2,2,6
+446598,Clindamycin,425.0,2.2,4,7
+446987,Fosfomycin,138.06,-1.4,2,4
+447234,Hydroxy-phenyl-acetic acid 8-methyl-8-aza-bicyclo[3.2.1]oct-3-YL ester,275.34,1.9,1,4
+448223,Benzoylecgonine,289.33,-0.3,1,5
+449193,Roflumilast,403.2,4.6,1,6
+449688,Choline C-11,103.17,-0.4,1,1
+450601,Fluciclovine (18F),132.12,-2.6,2,4
+451668,Decitabine,228.21,-1.2,3,4
+452977,Atroscine,303.35,0.9,1,5
+456199,Pretomanid,359.26,2.8,0,9
+456389,Diclazuril,407.6,4.1,1,4
+456390,Halofuginone,414.7,1.4,2,5
+460612,Melphalan,305.2,-0.5,2,4
+464205,Tenofovir,287.21,-1.6,3,8
+469584,Epzicom,286.33,0.9,3,6
+471161,Maribavir,376.2,2.2,4,6
+475319,Mefoxin,426.4,0.6,2,9
+489181,Efinaconazole,348.4,2.0,1,6
+489518,"1-[4-Hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-1,3-dihydropyrimidine-2,4-dione",242.23,-1.2,3,5
+492405,Favipiravir,157.1,-0.6,2,4
+501391,Lucerastat,219.28,-0.6,4,5
+522232,Etoxybamide,147.17,-1.5,3,3
+535161,"5,15-Dihydroxy-2,16-dimethyl-7-oxapentacyclo[9.7.0.02,8.06,8.012,16]octadec-4-ene-4-carbonitrile",329.4,2.9,2,4
+541197,"19-Norpregn-4-en-20-yn-3-one, 17-(acetyloxy)-, (17alpha)-",340.5,3.5,0,3
+546453,Cloderm,495.0,4.5,1,6
+556998,"p-Menthane-3,8-diol",172.26,2.2,2,2
+578798,Tridesilon,416.5,2.7,2,6
+598402,"1H-Imidazole-2-methanol, alpha,alpha,1-trimethyl-5-nitro-",185.18,-0.5,1,4
+633097,Kenalog,434.5,2.5,2,7
+636363,Urea C-13,61.048,-1.4,2,1
+636398,Hydrocortisone Probutate,488.6,4.2,1,7
+637568,Dimethyl Fumarate,144.12,0.7,0,4
+637577,(+)-Hyoscyamine,289.4,1.8,1,4
+638340,Lopac-S-1875,303.35,0.9,1,5
+638678,Protirelin,362.38,-2.5,4,5
+643985,Dextromethadone,309.4,3.9,0,2
+644007,Norcocaine,289.33,1.8,1,5
+644020,Sparteine,234.38,2.5,0,2
+656583,Trilostane,329.4,2.9,2,4
+656598,Methylatropine,304.4,1.8,1,3
+656665,Tropisetron,284.35,3.8,1,3
+657237,Fludarabine,285.23,-0.6,4,9
+657262,Dithizone,256.329,4.2,2,3
+657298,Propylthiouracil,170.23,0.8,2,2
+657309,Ipratropium,332.5,2.6,1,3
+666418,Protionamide,180.27,1.5,1,2
+667449,"(R)-[(2R,4S,5S)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl](6-methoxyquinolin-4-yl)methanol",324.4,2.9,1,4
+667468,Cidoxepin,279.4,4.3,0,2
+667477,Doxepin,279.4,4.3,0,2
+667484,Etomidate,244.29,3.0,0,3
+667490,Mercaptopurine,152.18,0.0,2,2
+667493,Methylthiouracil,142.18,-0.2,2,2
+688020,"2-Butenamide, N-ethyl-N-(2-methylphenyl)-",203.28,2.8,0,1
+688024,(-)-Homatropine,275.34,1.9,1,4
+688561,"8-hydroxy-5-[(1R,2S)-1-hydroxy-2-[(propan-2-yl)amino]butyl]-1,2-dihydroquinolin-2-one",290.36,1.5,4,4
+697993,2-Mercaptobenzothiazole,167.3,2.4,1,2
+708857,Pyrantel,206.31,1.6,0,2
+721860,"(2R)-2-amino-3-(3,4-dihydroxyphenyl)-2-methylpropanoic acid",211.21,-1.9,4,5
+854019,Cotinine,176.21,-0.3,0,2
+854067,(-)-Synephrine,167.2,-0.6,3,3
+941650,trans-Thiothixene,443.6,3.8,0,6
+941651,Thiothixene,443.6,3.8,0,6
+961320,Tifacogin,203.31,2.5,1,2
+969472,Eszopiclone,388.8,0.5,0,7
+969516,Curcumin,368.4,3.2,2,6
+1201549,Benztropine,307.4,4.5,0,2
+1349907,Methimazole,114.17,-0.3,1,1
+1548885,trans-Sulindac,356.4,3.4,1,5
+1548887,Sulindac,356.4,3.4,1,5
+1548943,Capsaicin,305.4,3.6,2,3
+1548972,Fluvastatin,411.5,3.5,3,5
+1549000,Levocetirizine,388.9,1.7,1,5
+2723601,Thioguanine,167.19,-0.1,3,2
+2723790,Thiourea,76.12,-0.8,2,1
+2723877,Sdccgsbi-0051046.P002,303.35,0.9,1,5
+2724354,Succimer,182.2,0.1,4,6
+2761171,Ethionamide,166.25,1.1,1,2
+2999413,Zeranol,322.4,4.3,3,5
+3000261,"Ajmalan-17,21-diol",326.4,1.8,2,4
+3000322,Hyoscine,303.35,0.9,1,5
+3000346,"1-((2R,4R,5S)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-5-methylpyrimidine-2,4(1H,3H)-dione",242.23,-1.2,3,5
+3000506,"(R)-[2,8-bis(trifluoromethyl)-4-quinolyl]-[(2R)-2-piperidyl]methanol",378.31,3.6,2,9
+3000516,"(S)-[2,8-bis(trifluoromethyl)quinolin-4-yl]-[(2S)-piperidin-2-yl]methanol",378.31,3.6,2,9
+3000715,Thiopental,242.34,2.9,2,3
+3001028,Estrone sulfate,350.4,2.5,1,5
+3001055,Zantac,314.41,0.3,2,7
+3003141,Luliconazole,354.3,4.0,0,4
+3008897,Censavudine,248.23,-0.7,2,4
+3011155,Nelarabine,297.27,-0.7,4,9
+3011527,delta-E,358.4,1.5,2,5
+3022645,2-[(2-Ethoxyphenoxy)-phenylmethyl]morpholine,313.4,3.0,1,4
+3027547,Cimbuterol,233.31,1.2,3,4
+3032285,Thiamylal,254.35,3.2,2,3
+3032321,Buthalital,240.32,2.3,2,3
+3032325,Diethylstilbestrol Diphosphate,428.3,2.5,4,8
+3032472,Aziprotryne,225.28,3.7,1,7
+3032799,Dexivacaine,246.35,1.9,1,2
+3032998,Carnidazole,244.27,1.1,1,5
+3033053,Dezocine,245.36,3.7,2,2
+3033637,Nizax,331.5,1.6,2,8
+3033818,Dolasetron,324.4,3.4,1,4
+3033860,Loprazolam,464.9,2.9,0,7
+3033877,"2,3-Dihydroxypropyl octanoate",218.29,2.0,2,4
+3034034,Quinine,324.4,2.9,1,4
+3034287,Nitenpyram,270.71,2.4,1,5
+3034435,Methacrifos,240.22,1.9,0,6
+3034658,Dtxcid7028691,364.4,1.8,2,5
+3034756,"(S,S)-Formoterol",344.4,1.8,4,5
+3035000,Vamorolone,356.5,2.7,2,4
+3036746,Quinact,324.4,2.9,1,4
+3036780,"(R,R)-asenapine",285.8,3.8,0,2
+3036923,Lidocaine N-oxide,250.34,2.6,1,2
+3037705,Methenolone,302.5,3.9,1,2
+3038498,Fospropofol,288.28,2.5,2,5
+3044368,"Quinoline, 8-(4-amino-1-methylbutylamino)-6-methoxy-, d-",259.35,2.2,2,4
+3044369,"(4s)-N~4~-(6-Methoxyquinolin-8-Yl)pentane-1,4-Diamine",259.35,2.2,2,4
+3050408,Ponazuril,457.4,3.1,1,9
+3052762,Prucalopride,367.9,2.0,2,5
+3052776,Rasagiline,171.24,1.8,1,1
+3058754,Deracoxib,397.4,2.8,1,8
+3062316,Dasatinib,488.0,3.6,3,9
+3080825,Tonocard,192.26,0.8,2,2
+3081361,Vandetanib,475.4,4.9,1,7
+3081364,Dicyclanil,190.21,0.6,3,6
+3083511,Imepitoin,279.72,1.2,0,2
+3083544,Arformoterol,344.4,1.8,4,5
+3084849,Brombuterol,366.09,2.3,3,3
+3085244,Mianserin 2-Oxide,280.4,2.8,0,2
+3086401,Quinagolide,395.6,3.1,2,6
+3086576,Zilpaterol,261.32,0.5,3,3
+3086674,Ioflupane I-123,427.3,4.0,0,4
+3290567,2-Phenoxybenzamide,213.23,2.5,1,2
+3294375,Picolinafen,376.3,4.9,1,7
+3326923,Ibuprofen(1-),205.27,4.1,0,2
+3434975,Acetylsalicylate,179.15,1.8,0,4
+3501942,N-Desmethylvenlafaxine,263.37,3.0,2,3
+3549980,Valproate,143.2,3.4,0,2
+3713609,Intropin,154.19,-1.0,3,2
+3867239,Thiopental(1-),241.33,2.8,1,3
+3874387,3-[5-(Dimethylcarbamoyl)pyrrolidin-3-yl]sulfanyl-6-(1-hydroxyethyl)-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid,383.5,-2.4,3,7
+4011971,1-Cyclopropyl-6-fluoro-4-oxo-7-piperazin-4-ium-1-ylquinoline-3-carboxylate,331.34,-1.0,1,6
+4147757,Hydroxypioglitazone,372.4,2.5,2,6
+4659387,"S-(fluoromethyl) 6,9-difluoro-11,17-dihydroxy-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthrene-17-carbothioate",444.5,3.2,2,8
+4659569,Tolcapone,273.24,3.3,2,5
+5225092,"[11-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] pentanoate",446.6,3.8,2,6
+5237030,"Cyclobutane-1,1-dicarboxylate",142.11,1.7,0,4
+5280360,Dinoprostone,352.5,2.8,3,5
+5280443,Apigenin,270.24,1.7,3,5
+5280723,Alprostadil,354.5,3.2,3,5
+5280980,Clavulanic Acid,199.16,-1.2,2,5
+5281004,Budesonide,430.5,2.5,2,6
+5281006,Cefprozil,389.4,-1.4,4,7
+5281034,Oxymetholone,332.5,4.4,2,3
+5281037,Eprosartan,424.5,4.5,2,6
+5281071,Olopatadine,337.4,1.5,1,4
+5281077,Ethchlorvynol,144.6,1.5,1,1
+5281078,Mycophenolate Mofetil,433.5,3.2,1,8
+5281081,Entacapone,305.29,2.1,2,6
+5281520,Humulene,204.35,4.5,0,0
+5281855,Ellagic Acid,302.19,1.1,4,8
+5281878,Flupenthixol,434.5,4.5,1,7
+5281881,Flupentixol,434.5,4.5,1,7
+5282134,"(1R,3S,5Z)-5-[(2E)-2-[(1R,3aS,7aR)-1-[(E,2R)-5-cyclopropyl-5-hydroxypent-3-en-2-yl]-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",412.6,4.3,3,3
+5282175,Unoprostone Isopropyl,424.6,4.9,2,5
+5282338,Acotiamide,450.6,3.5,3,8
+5282381,Misoprostol,382.5,3.7,2,5
+5282411,Epoprostenol,352.5,2.9,3,5
+5282426,Dothiepin,295.4,4.5,0,2
+5282443,Triprolidine,278.4,3.9,0,2
+5282452,Pitavastatin,421.5,3.5,3,6
+5282492,Betamethasone Benzoate,496.6,3.9,2,7
+5282493,Clocortolone Pivalate,495.0,4.5,1,6
+5282494,Hydrocortisone Valerate,446.6,3.8,2,6
+5282593,Homatropine,275.34,1.9,1,4
+5284371,Codeine,299.4,1.1,1,4
+5284456,Isoptpo Hyoscine,303.35,0.9,1,5
+5284514,Acrivastine,348.4,1.6,1,4
+5284528,Brisoral,389.4,-1.4,4,7
+5284543,Dihydrocodeine,301.4,2.2,1,4
+5284549,Dorzolamide,324.4,0.4,2,7
+5284550,trans-Dothiepin,295.4,4.5,0,2
+5284557,Ethisterone,312.4,3.5,1,2
+5284566,Granisetron,312.4,2.8,1,3
+5284569,Hydrocodone,299.4,2.2,0,4
+5284570,Hydromorphone,285.34,1.8,1,4
+5284583,Levetiracetam,170.21,-0.3,1,2
+5284585,Loracarbef,349.77,-1.7,3,5
+5284587,Meprednisone,372.5,1.9,2,5
+5284594,Nalmefene,339.4,2.7,2,4
+5284595,Nalorphine,311.4,1.9,2,4
+5284596,Naloxone,327.4,2.1,2,5
+5284603,Oxycodone,315.4,1.2,1,5
+5284604,Oxymorphone,301.34,0.8,2,5
+5284627,Topiramate,339.36,-0.8,1,9
+5288783,Calcipotriene,412.6,4.3,3,3
+5288826,Morphine,285.34,0.8,2,4
+5310966,Varenicline,211.26,0.8,1,3
+5311000,Alclometasone,408.9,2.2,3,5
+5311027,Bimatoprost,415.6,2.8,4,4
+5311037,Istradefylline,384.4,2.5,0,5
+5311047,"4-amino-5-chloro-N-[(3R,4S)-1-[3-(4-fluorophenoxy)propyl]-3-methoxypiperidin-4-yl]-2-methoxybenzamide",465.9,3.4,2,7
+5311051,Clobetasol,410.9,2.5,2,5
+5311066,Desonide,416.5,2.7,2,6
+5311067,Desoximetasone,376.5,2.3,2,5
+5311068,Dexmedetomidine,200.28,3.1,1,1
+5311101,Fluticasone,444.5,3.2,2,8
+5311181,Iloprost,360.5,2.8,3,4
+5311221,Latanoprost,432.6,4.3,3,5
+5311236,Unoprostone,382.5,3.7,3,5
+5311304,Nalbuphine,357.4,0.2,3,5
+5311309,Nateglinide,317.4,3.2,2,3
+5311328,"(8R,9S,10R,13S,14S,17S,E)-13-ethyl-17-ethynyl-3-(hydroxyimino)-2,3,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl acetate",369.5,4.1,1,4
+5311356,Pholcodine,398.5,0.8,1,6
+5311412,Rimexolone,370.5,3.5,1,3
+5311447,Spirapril,466.6,0.9,2,8
+5311454,Stiripentol,234.29,3.6,1,3
+5311507,Zuclopenthixol,401.0,4.3,1,4
+5312125,Silodosin,495.5,3.6,3,9
+5323714,Furazolidone,225.16,-0.1,0,6
+5324289,Thebaine,311.4,2.2,0,4
+5324346,Fluvoxamine,318.33,2.6,1,7
+5329102,Sunitinib,398.5,2.6,3,4
+5329106,Toceranib,396.5,2.4,3,4
+5330286,Palbociclib,447.5,1.8,2,8
+5353505,7-[[2-amino-2-(4-hydroxyphenyl)acetyl]amino]-8-oxo-3-[(E)-prop-1-enyl]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid,389.4,-1.4,4,7
+5353622,Mylanta AR,337.5,-0.6,4,8
+5353627,"(6E)-7-[3-(4-fluorophenyl)-1-(propan-2-yl)-1H-indol-2-yl]-3,5-dihydroxyhept-6-enoic acid",411.5,3.5,3,5
+5353636,Furazolidona,225.16,-0.1,0,6
+5353646,"2-[(Z)-(2,6-dichlorophenyl)methylideneamino]guanidine",231.08,1.7,2,2
+5353792,Morantel,220.34,1.9,0,2
+5353830,"Hydantoin, 1-(5-nitro-furfurylideneamino)-",238.16,-0.5,1,6
+5353831,Axid,331.5,1.6,2,8
+5359271,Ethylmorphine,313.4,1.5,1,4
+5359272,Levorphanol,257.37,3.1,1,2
+5359371,Levallorphan,283.4,3.5,1,2
+5359421,Dihydromorphine,287.35,1.8,2,4
+5360515,Naltrexone,341.4,1.9,2,5
+5360696,Dextromethorphan,271.4,3.4,0,2
+5360697,Dextrorphan,257.37,3.1,1,2
+5360970,syn-Norgestimate,369.5,4.1,1,4
+5361092,Butorphanol,327.5,3.8,2,3
+5361192,"Fluvoxamine, (Z)-",318.33,2.6,1,7
+5361918,Methylnaltrexone,356.4,1.6,2,4
+5362032,(2S)-1-((2S)-2-(((1R)-1-(Ethoxycarbonyl)-3-phenylpropyl)amino)propanoyl)pyrrolidine-2-carboxylic acid,376.4,-0.1,2,6
+5362119,Lisinopril,405.5,-2.9,4,7
+5362124,Benazepril,424.5,1.3,2,6
+5362129,Ramipril,416.5,1.4,2,6
+5362449,Levomethorphan,271.4,3.4,0,2
+5362487,Sulfur,32.07,0.5,0,1
+5365247,Zimeldine,317.22,3.9,0,2
+5368010,Crotetamide,226.32,1.4,0,2
+5369209,Monomethyl Fumarate,130.1,0.4,1,4
+5369258,Cropropamide,240.34,1.9,0,2
+5378825,Dantrium,314.25,1.7,1,6
+5388962,Enalapril,376.4,-0.1,2,6
+5447130,Nitrofurazone,198.14,0.2,2,5
+5461037,Evalose,178.18,-2.2,4,5
+5462328,Heroin,369.4,1.5,0,6
+5462501,Enalaprilat,348.4,-0.7,3,6
+5462507,6-Acetylmorphine,327.4,1.3,1,5
+5464098,Succinyl dihydroartemisinin,384.4,2.5,1,8
+5484727,Trandolapril,430.5,2.0,2,6
+5486971,Pregabalin,159.23,-1.6,2,3
+5487427,Tiotropium,392.5,2.3,1,6
+5488548,Alvimopan,424.5,1.7,3,5
+5492898,Dihydroisocodeine,301.4,2.2,1,4
+5702063,Guanabenz,231.08,1.7,2,2
+5702065,Homatropin,275.34,1.9,1,4
+5702094,"[(10R,13S,17R)-17-ethynyl-13-methyl-3-oxo-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate",340.5,3.5,0,3
+5702096,"(10R,13S,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",312.4,3.3,1,2
+5702148,Pharmakon1600-01500813,430.5,2.5,2,6
+5702160,Famotidine,337.5,-0.6,4,8
+5748152,"(R)-(6-Methoxyquinolin-4-yl)((1R,2R,4R,5S)-5-vinylquinuclidin-2-yl)methanol",324.4,2.9,1,4
+6178111,Proguanil,253.73,1.5,3,1
+6178305,"(Z)-N-(3-methyl-1,1-dioxo-1,4-thiazinan-4-yl)-1-(5-nitrofuran-2-yl)methanimine",287.29,1.3,0,7
+6323266,Tipiracil,242.66,-0.7,3,3
+6324646,"[(3Z,8R,9S,10R,13S,14S,17S)-13-ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate",369.5,4.1,1,4
+6337614,Palonosetron,296.4,2.8,0,2
+6338045,3-[(1S)-1-phenylethyl]-4-imidazolecarboxylic acid ethyl ester,244.29,3.0,0,3
+6420024,"(S)-2-Methyl-butyric acid (1S,3R,7S,8S,8aR)-8-[2-((R)-4-hydroxy-6-oxo-tetrahydro-pyran-2-yl)-ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydro-naphthalen-1-yl ester",404.5,4.3,1,5
+6426740,Prostaphlin,400.4,3.0,1,7
+6426741,Cloxacillin(1-),434.9,3.1,1,7
+6426742,Dicloxacillin(1-),469.3,3.6,1,7
+6432476,"Pregna-1,4-diene-3,20-dione, 9-fluoro-11,17,21-trihydroxy-16-methyl-, (11beta,16alpha)-",392.5,1.9,3,6
+6432494,"6-beta,7-beta-Epoxy-3-alpha-tropanyl S-(-)-tropate",303.35,0.9,1,5
+6432512,"Pregn-4-ene-21-carboxylic acid, 7-(acetylthio)-17-hydroxy-3-oxo-, gamma-lactone, (7alpha,17alpha)-",416.6,2.9,0,5
+6432567,Virormone,288.4,3.3,1,2
+6432649,Minovlar,298.4,3.0,1,2
+6433083,Hexaminolevulinate,215.29,1.1,1,4
+6433107,Robenacoxib,327.27,4.1,2,7
+6434622,"7-(2-((3-(3-Chlorophenoxy)-2-hydroxypropyl)thio)-3,5-dihydroxycyclopentyl)-5-heptenoic acid",445.0,2.9,4,7
+6435068,CID 6435068,402.5,1.6,3,6
+6435378,"(5E)-5-[(3aS,5R,6aS)-5-hydroxy-4-[(E,3S)-3-hydroxy-4-methyloct-1-en-6-ynyl]-3,3a,4,5,6,6a-hexahydro-1H-pentalen-2-ylidene]pentanoic acid",360.5,2.8,3,4
+6436031,Prostalene,380.5,2.5,3,5
+6436113,Nifurprazine,232.2,1.1,1,6
+6436131,"(1R,3S,5Z)-5-[(2E)-2-[(1R,7aR)-1-[(E,2R,5S)-5-cyclopropyl-5-hydroxypent-3-en-2-yl]-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",412.6,4.3,3,3
+6438715,"(Z)-7-[(1S,2R,3R,5S)-2-[(2S)-3-(3-chlorophenoxy)-2-hydroxypropyl]sulfanyl-3,5-dihydroxycyclopentyl]hept-5-enoic acid",445.0,2.9,4,7
+6439522,Tapinarof,254.32,4.6,2,2
+6440495,Comfrey,397.5,0.8,2,7
+6441712,Luprostiol,445.0,2.9,4,7
+6450551,Axitinib,386.5,4.2,2,4
+6451159,Beflubutamid,355.3,4.6,1,6
+6451164,Rilpivirine,366.4,4.5,2,6
+6451257,Scopalamine,303.35,0.9,1,5
+6479523,Azlocillin,461.5,0.1,4,7
+6483431,4'-Ethynyl-2-Fluoro-2'-Deoxyadenosine,293.25,-0.6,3,8
+6507255,Miplyffa,313.78,1.2,1,5
+6537152,syn-Norelgestromin,327.5,3.6,2,3
+6540478,Norgestimate,369.5,4.1,1,4
+6541429,(2S)-1-chloro-3-(2-methyl-5-nitroimidazol-1-yl)propan-2-ol,219.62,0.6,1,4
+6604200,Nitrofurantoin,238.16,-0.5,1,6
+6604728,3-[(E)-[5-(4-nitrophenyl)furan-2-yl]methylideneamino]-2-oxo-4H-imidazol-5-olate,313.24,2.7,0,6
+6708605,"1-[(3R,5S,10S,13S,14S)-3-hydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]ethanone",318.5,4.9,1,2
+6714002,Prednicarbate,488.6,4.2,1,8
+6842999,Nifurtimox,287.29,1.3,0,7
+6914273,Dantrolene,314.25,1.7,1,6
+6917698,Cisapride,465.9,3.4,2,7
+6917715,Etonogestrel,324.5,3.3,1,2
+6917779,Levomilnacipran,246.35,1.4,1,2
+6917864,Artesunate,384.4,2.5,1,8
+6918140,Treprostinil,390.5,4.5,3,5
+6918178,Halobetasol Propionate,485.0,3.7,1,7
+6918242,"(4R,5S,6S)-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-3-[(3S,5S)-5-[(sulfamoylamino)methyl]pyrrolidin-1-ium-3-yl]sulfanyl-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylate",420.5,-2.8,4,9
+6918248,Flibanserin,390.4,3.3,1,6
+6918314,Vilazodone,441.5,4.0,2,5
+6918405,Ombrabulin,402.4,2.2,3,7
+6918456,Prasugrel,373.4,3.6,0,6
+6918474,Carisbamate,215.63,1.0,2,3
+6918485,Isavuconazole,437.5,3.5,1,8
+6918493,Ambrisentan,378.4,3.8,1,6
+6918537,Vildagliptin,303.4,0.9,2,4
+6918554,Indacaterol,392.5,3.3,4,4
+6918638,Belinostat,318.3,1.7,3,5
+6918670,Ingenol Mebutate,430.5,2.0,3,6
+6918837,Panobinostat,349.4,3.0,4,3
+6919175,"(1S,2S)-Pseudoephedrine",166.24,0.9,2,1
+6925666,Anaprox,229.25,4.0,0,3
+6957673,Bentiromide,404.4,3.3,4,5
+6971033,"(2S)-2-azaniumyl-3-(3,4-dihydroxyphenyl)propanoate",197.19,-2.1,3,4
+7048634,Keflin,395.4,0.2,1,8
+9547354,"(22E)-(24R)-1alpha,24-dihydroxy-26,27-cyclo-22,23-didehydro-20-epivitamin D3/(22E)-(24R)-1alpha,24-dihydroxy-26,27-cyclo-22,23-didehydro-20-epicholecalciferol",412.6,4.3,3,3
+9548591,6-Formamidopenicillanic acid,244.27,0.5,2,5
+9568614,Esomeprazole,345.4,2.2,1,6
+9568628,Ortho Evra,327.5,3.6,2,3
+9571009,[(E)-3-methylsulfonylbutan-2-ylideneamino] N-methylcarbamate,222.26,-0.1,1,5
+9576097,Isomethiozin,268.38,3.5,0,5
+9578005,Dexlansoprazole,369.4,2.8,1,8
+9579578,(r)-Omeprazole,345.4,2.2,1,6
+9601086,"[(3E,8R,9S,10R,13S,14S,17S)-13-ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate",369.5,4.1,1,4
+9690109,Armodafinil,273.4,1.7,1,3
+9793926,Methacetin methoxy-C-13,166.18,1.1,1,2
+9802545,(R)-paliperidone,426.5,2.2,1,7
+9802884,Pradofloxacin,396.4,0.4,2,8
+9804992,Givinostat,421.5,3.6,3,5
+9811834,Sacubitril,411.5,3.7,2,5
+9818306,Estradiol Acetate,314.4,2.8,1,3
+9820838,Norgestomet,372.5,3.1,0,4
+9821433,CID 9821433,384.4,2.5,1,8
+9821941,Caplyta,393.5,3.8,0,5
+9823820,Lenvatinib,426.9,2.8,3,5
+9837243,Brivaracetam,212.29,1.0,1,2
+9838022,Tapentadol,221.34,3.5,1,2
+9838712,Reparixin,283.39,2.9,1,3
+9839243,17-epi-Norethindrone,298.4,3.0,1,2
+9843089,Mavacoxib,385.3,3.1,1,8
+9848818,Tauroursodeoxycholic acid,499.7,3.6,4,6
+9862958,N-(2-Hydroxy-5-((1S)-1-hydroxy-2-(((1R)-2-(4-methoxyphenyl)-1-methylethyl)amino)ethyl)phenyl)formamide,344.4,1.8,4,5
+9863672,Ripasudil,323.4,1.5,1,6
+9863827,Ozenoxacin,363.4,4.1,2,6
+9865442,Loteprednol,394.9,2.6,2,5
+9865528,Mirabegron,396.5,2.1,4,6
+9867812,Remimazolam,439.3,3.4,0,5
+9868491,Tafluprost,452.5,4.5,2,7
+9869929,Avanafil,483.9,2.6,3,9
+9875401,Rivaroxaban,435.9,2.5,1,6
+9881504,Eslicarbazepine,254.28,1.4,2,2
+9882105,Treosulfan,278.3,-2.2,2,8
+9883500,3alpha-Hydroxy-5alpha-pregnane-20-one,318.5,4.9,1,2
+9883933,Gabapentin Enacarbil,329.39,3.1,2,6
+9884642,Naproxcinod,347.4,4.1,0,6
+9887712,Dapagliflozin,408.9,2.3,4,6
+9889200,Balaglitazone,395.4,2.7,1,6
+9911830,Tivozanib,454.9,4.0,2,7
+9913767,Selexipag,496.6,3.8,1,7
+9924495,Perampanel,349.4,3.4,0,3
+9926791,Tofacitinib,312.37,1.5,1,5
+9931954,Rucaparib,323.4,2.5,3,3
+9934746,Ensifentrine,477.6,2.7,2,5
+9939152,"methyl (2S,9R,10R,11S,14R,15S,17R)-2,15-dimethyl-5,5'-dioxospiro[18-oxapentacyclo[8.8.0.01,17.02,7.011,15]octadec-6-ene-14,2'-oxolane]-9-carboxylate",414.5,1.4,0,6
+9948102,Pitolisant,295.8,4.3,0,2
+9966051,Vortioxetine,298.4,4.2,1,3
+10041070,Altrenogest,310.4,2.8,1,2
+10048368,2-Carbomethoxy-8-(3-fluoropropyl)-3-(4-iodophenyl)tropane,431.3,4.0,0,4
+10071196,Pimavanserin,427.6,4.5,1,4
+10074640,Masitinib,498.6,4.3,2,7
+10096344,Linagliptin,472.5,1.9,1,7
+10107393,Flutemetamol,274.32,3.8,2,5
+10113978,Pazopanib,437.5,3.1,2,8
+10127622,Selumetinib,457.7,3.6,3,6
+10129877,Water O-15,17.019,-0.5,1,1
+10130337,Solriamfetol,194.23,0.6,2,3
+10130527,(2z)-1-[(6-Chloropyridin-3-Yl)methyl]imidazolidin-2-Imine,210.66,0.2,1,2
+10131134,Arendal,248.09,-6.7,4,7
+10156152,Hydroxyprogesterone acetate,372.5,3.7,0,4
+10178705,Besifloxacin,393.8,1.1,2,7
+10182969,Apixaban,459.5,2.2,1,5
+10184653,Afatinib,485.9,3.6,2,8
+10184665,Vilanterol,486.4,3.8,4,6
+10197842,Vitamin U,163.24,-1.7,1,3
+10220503,Tasimelteon,245.32,2.2,1,2
+10275777,Betrixaban,451.9,3.6,3,5
+10288191,Binimetinib,441.2,3.1,3,7
+10403199,Fenamidone,311.4,4.1,1,4
+10472693,Bempedoic Acid,344.5,4.8,3,5
+10657292,L-Threo-methylphenidate,233.31,0.2,1,3
+10869981,Fluoroestradiol F-18,289.4,3.5,2,3
+10936292,Dimoxystrobin,326.4,3.9,1,4
+10937610,Mefenpyr-diethyl,373.2,3.9,0,6
+11001318,Tafamidis,308.1,4.2,1,4
+11101484,CID 11101484,402.5,1.6,3,6
+11154555,Cariprazine,427.4,4.3,1,3
+11155198,Flumethasone Acetate,452.5,2.5,2,8
+11167602,Regorafenib,482.8,4.2,3,8
+11219835,Ataluren,284.24,3.1,1,6
+11234049,Tedizolid,370.3,1.4,1,8
+11235729,"(1S,3S,5S)-2-[(2S)-2-amino-2-[(1r,3R,5R,7S)-3-hydroxyadamantan-1-yl]acetyl]-2-azabicyclo[3.1.0]hexane-3-carbonitrile",315.4,0.7,2,4
+11243969,Saxagliptin,315.4,0.7,2,4
+11256587,Mavorixafor,349.5,2.4,2,4
+11256664,Roxadustat,352.3,3.4,3,6
+11285653,Picoxystrobin,367.3,3.6,0,8
+11304743,Riociguat,422.4,1.6,2,9
+11318905,Trofinetide,315.32,-3.9,4,7
+11340891,Retosiban,494.6,2.6,1,6
+11347535,Marizomib,313.77,1.8,2,4
+11363176,Ponesimod,461.0,4.6,2,6
+11372270,Ladarixin,375.3,2.0,1,9
+11405965,Flurpiridaz (18F),367.8,3.0,0,5
+11434515,Aclidinium,484.7,4.7,1,6
+11450633,Alogliptin,339.4,0.6,1,5
+11457650,"Urea, C-14",62.048,-1.4,2,1
+11494412,Tivantinib,369.4,2.9,2,2
+11501341,Florbetaben F-18,358.4,4.2,1,5
+11503972,"[(3S,7S)-10-Oxo-8-azatricyclo[5.3.1.03,8]undecan-5-yl] 1H-indole-3-carboxylate",324.4,3.4,1,4
+11504295,Olodaterol,386.4,1.8,4,6
+11511120,Dacomitinib,469.9,4.4,2,7
+11519070,Umeclidinium,428.6,4.7,1,2
+11528958,Verdiperstat,253.32,1.0,2,3
+11561674,Apremilast,460.5,1.8,1,7
+11567473,Finafloxacin,398.4,-0.7,2,9
+11597571,"3-(1-(2,6-dichloro-3-fluorophenyl)ethoxy)-5-(1-(piperidin-4-yl)-1H-pyrazol-4-yl)pyridin-2-amine",450.3,3.7,2,6
+11597698,Lisdexamfetamine,263.38,1.2,3,3
+11609955,Resminostat,349.4,0.9,2,5
+11610526,Lasmiditan,377.4,2.8,1,7
+11622909,"2-(aminomethyl)-N,N-diethyl-1-phenylcyclopropane-1-carboxamide",246.35,1.4,1,2
+11625818,Idelalisib,415.4,3.7,2,7
+11626560,Crizotinib,450.3,3.7,2,6
+11634155,"(3S,11bS)-tetrabenazine",317.4,2.9,0,4
+11658860,Lorcaserin,195.69,2.7,1,1
+11677589,Grapiprant,491.6,4.6,2,5
+11689883,Omecamtiv mecarbil,401.4,1.4,2,6
+11750009,Clascoterone,402.5,3.9,1,5
+11773081,"[(3Z,8R,9S,10R,13S,14S,17R)-13-ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate",369.5,4.1,1,4
+11823027,"(2S,3R)-5-[3-(tert-butylamino)-2-hydroxypropoxy]-1,2,3,4-tetrahydronaphthalene-2,3-diol",309.4,0.7,4,5
+11848225,Cebranopadol,378.5,4.3,1,3
+11865407,(2S)-1-[(2S)-6-azaniumyl-2-[[(1S)-1-carboxylato-3-phenylpropyl]azaniumyl]hexanoyl]pyrrolidine-2-carboxylate,405.5,-1.6,2,5
+11876263,Desoxycorticosterone Pivalate,414.6,4.5,0,4
+11949646,Empagliflozin,450.9,2.0,4,7
+11950170,Belumosudil,452.5,4.8,3,6
+11957468,"9alpha-Chloro-16beta-methyl-1,4-pregnadiene-11beta,17alpha,21-triol-3,20-dione",408.9,2.2,3,5
+11960529,Veliparib,244.29,0.5,3,3
+11962412,Cenobamate,267.67,1.5,1,5
+11968014,Scopolamine,303.35,0.9,1,5
+11978813,Brexpiprazole,433.6,4.7,1,5
+12303990,Progesterone-13C3,317.4,3.9,0,2
+12306686,"3,7-Dihydroxycholan-24-oic acid",392.6,4.9,3,4
+12358601,Surodex,392.5,1.9,3,6
+12358851,"4-amino-1-[(2R,3R,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one",243.22,-2.1,4,5
+12598310,"(8R,9R,10R,13S,14R,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",312.4,3.3,1,2
+12877547,1-(3-Mercapto-2-methyl-1-oxopropyl)-L-proline,217.29,0.3,2,4
+12923616,"[(1S,3R,7S,8S,8aR)-8-[2-(4-hydroxy-6-oxooxan-2-yl)ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2S)-2-methylbutanoate",404.5,4.3,1,5
+12986439,"(S)-[2,8-bis(trifluoromethyl)quinolin-4-yl]-piperidin-2-ylmethanol",378.31,3.6,2,9
+13337332,Hypericum,244.27,0.5,2,5
+13362237,CID 13362237,402.5,1.6,3,6
+13423142,(6R)-7-[[(2R)-2-Amino-2-(4-hydroxyphenyl)acetyl]amino]-8-oxo-3-[(E)-prop-1-enyl]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid,389.4,-1.4,4,7
+13559281,Ulipristal,433.6,2.9,1,4
+13752005,"15-Ethyl-14-ethynyl-5-(hydroxyimino)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-en-14-ol",327.5,3.6,2,3
+14476155,Dolasetronum,324.4,3.4,1,4
+15556370,5-[Dideuterio(hydroxy)methyl]-4-(hydroxymethyl)-2-methylpyridin-3-ol,171.19,-0.8,3,4
+15950376,Flutemetamol F-18,273.32,3.8,2,5
+15951529,Enzalutamide,464.4,3.6,1,8
+15981237,Resmetirom,435.2,2.7,2,7
+15981397,Vonoprazan,345.4,2.0,1,5
+16051930,CID 16051930,312.4,3.3,1,2
+16089915,Methylnaltrexone [VANDF],356.4,1.6,2,4
+16124688,Tecovirimat,376.3,2.6,1,6
+16218996,"(9R)-9-chloro-11,17-dihydroxy-17-(2-hydroxy-1-oxoethyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",408.9,2.2,3,5
+16219371,Fluocinolone acetonide-21-acetate,494.5,3.2,1,9
+16394563,"4-oxo-4-{[(5aS,6R,8aS,9R,10S,12R,12aR)-3,6,9-trimethyldecahydro-3,12-epoxy[1,2]dioxepino[4,3-i]isochromen-10-yl]oxy}butanoic acid",384.4,2.5,1,8
+16399351,"[(4R)-9-methyl-3-oxa-9-azatricyclo[3.3.1.02,4]nonan-7-yl] 3-hydroxy-2-phenylpropanoate",303.35,0.9,1,5
+16678941,Lumacaftor,452.4,4.4,2,8
+16720766,Pevonedistat,443.5,1.7,3,8
+16759566,CID 16759566,430.5,2.5,2,6
+16760287,"1-(3-Hydroxy-10,13-dimethyl-hexadecahydro-cyclopenta[a]phenanthren-17-yl)-ethanone",318.5,4.9,1,2
+17754772,"3-cyclopentyl-3-[4-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)-1-pyrazolyl]propanenitrile",306.4,2.1,1,4
+17756939,"6-chloro-2-methyl-1,1,4-trioxo-N-pyridin-2-yl-3H-thieno[2,3-e]thiazine-3-carboxamide",371.8,2.0,1,7
+18647121,"(1S,2S,8S,9S,11S,12S,13R)-11-hydroxy-8-(2-hydroxyacetyl)-9,13-dimethyl-6-propyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one",430.5,2.5,2,6
+19371515,Alcaftadine,307.4,1.7,0,3
+20055397,Resocortol butyrate,430.6,4.3,1,5
+20056510,Codamine,343.4,3.3,1,5
+20056857,Estrone 3-sulfate,349.4,2.5,0,5
+20838499,"5-[3,3a,4,5,6,6a-Hexahydro-5-hydroxy-4-(3-hydroxy-4-methyl-1-octen-6-ynyl)pentalen-2(1H)-ylidene]pentanoic acid",360.5,2.8,3,4
+20839605,"(Z)-7-[2-[3-(3-chlorophenoxy)-2-hydroxypropyl]sulfanyl-3,5-dihydroxycyclopentyl]hept-5-enoic acid",445.0,2.9,4,7
+21139953,Allopregnan-3beta-ol-20-one,318.5,4.9,1,2
+21302490,Lumateperone,393.5,3.8,0,5
+21680713,Pyopen,376.4,2.4,1,7
+21865526,"(7beta,11alpha,17alpha)-9,11-Epoxy-17-hydroxy-3-oxo-pregn-4-ene-7,21-dicarboxylic acid gamma-lactone methyl ester",414.5,1.4,0,6
+22833567,Tetrahydroprogesterone,318.5,4.9,1,2
+22942549,Quinagolidum,395.6,3.1,2,6
+23278031,Meticillin sodium,379.4,1.9,1,7
+23290315,Ionamin,150.24,1.9,1,0
+23581946,"[(4S,5S,6R,10R,12R,14R)-5,6-dihydroxy-7-(hydroxymethyl)-3,11,11,14-tetramethyl-15-oxo-4-tetracyclo[7.5.1.01,5.010,12]pentadeca-2,7-dienyl] (Z)-2-methylbut-2-enoate",430.5,2.0,3,6
+23582412,Fevipiprant,426.4,2.8,1,8
+23616571,NCGC00384512-01_C20H24N2O2_6'-Methoxycinchonan-9-ol,324.4,2.9,1,4
+23634441,Vadadustat,306.7,2.5,3,5
+23635314,Tirbanibulin,431.5,2.9,1,5
+23652731,Eliglustat,404.5,3.7,2,5
+23653540,Enmetazobactam,314.32,-0.6,0,6
+23725625,Olaparib,434.5,1.9,1,5
+23729157,Tirasemtiv,230.27,1.4,1,3
+24728635,"2,5-Dimethoxy-4-(n)-propylthiophenethylamine",255.38,2.6,1,4
+24762165,S-adenosyl-L-methionine,399.4,-2.8,4,9
+24764487,Gefapixant,353.4,0.7,3,9
+24776445,Vismodegib,421.3,3.8,1,4
+24788740,Ipatasertib,458.0,2.5,2,6
+24795069,Valbenazine,418.6,4.3,1,6
+24812758,Canagliflozin,444.5,3.2,4,7
+24821094,Ibrutinib,440.5,3.6,1,6
+24822371,Florbetapir F-18,359.4,3.5,1,6
+24831714,Sotagliflozin,424.9,3.2,3,6
+24847762,Naltrexone methylbromide,356.4,1.6,2,4
+24848279,Ertapenem(1-),474.5,-0.8,4,9
+24848419,"(3R,5S,E)-7-(2-cyclopropyl-4-(4-fluorophenyl)quinolin-3-yl)-3,5-dihydroxyhept-6-enoate",420.5,4.2,2,6
+24849132,Pravachol,423.5,2.3,3,7
+24862817,Velagliflozin,395.4,2.0,4,6
+24867460,"(1S,2S,4R,8S,9S,11S,13R)-11-hydroxy-8-(2-hydroxyacetyl)-9,13-dimethyl-6-propyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one",430.5,2.5,2,6
+24867475,"(8S,9R,10S,11S,13S,16S,17R)-9-chloro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",408.9,2.2,3,5
+24868263,prostaglandin I2(1-),351.5,3.6,2,5
+24872560,Apalutamide,477.4,3.0,1,9
+24958198,2-(4-(piperidin-3-yl)phenyl)-2H-indazole-7-carboxamide,320.4,2.2,2,3
+24958200,Niraparib,320.4,2.2,2,3
+24965990,Suvorexant,450.9,4.9,0,6
+24967599,Avadomide,286.29,0.0,2,5
+25017411,Anlotinib,407.4,3.7,2,6
+25062766,Momelotinib,414.5,2.6,2,7
+25065981,Atb-346,365.4,4.2,1,4
+25101874,Gepotidacin,448.5,0.1,1,7
+25105689,Evenamide,278.39,2.5,1,3
+25110515,"5-[3-[(1S)-1-(2-hydroxyethylamino)-2,3-dihydro-1H-inden-4-yl]-1,2,4-oxadiazol-5-yl]-2-propan-2-yloxybenzonitrile",404.5,3.1,2,7
+25126798,Ruxolitinib,306.4,2.1,1,4
+25145656,Capmatinib,412.4,2.9,1,6
+25151352,Pexidartinib,417.8,4.5,2,7
+25166913,Glasdegib,374.4,2.4,3,4
+25171648,Tepotinib,492.6,3.4,0,7
+25195624,Bexagliflozin,464.9,2.4,4,7
+25201417,Hydroxy-[1-hydroxy-1-[hydroxy(oxido)phosphoryl]-2-imidazol-1-ylethyl]phosphinate,270.07,-4.5,3,8
+25201573,Ceplene,112.15,-0.7,2,1
+25202696,(3-Amino-1-hydroxy-1-phosphono-propyl)phosphonic acid,234.06,-7.1,4,7
+25218684,"(9S,10S)-9-hydroxy-10-(propan-2-ylamino)-1,3-diazatricyclo[6.4.1.0^{4,13}]trideca-4(13),5,7-trien-2-one",261.32,0.5,3,3
+25227436,Capivasertib,428.9,1.7,4,6
+25267009,Cedazuridine,268.21,-1.1,4,7
+25749227,5-(4'-{[2-butyl-4-chloro-5-(hydroxymethyl)-1H-imidazol-1-yl]methyl}biphenyl-2-yl)tetrazol-1-ide,421.9,3.7,1,6
+25897919,(8S)-Ipratropium,332.5,2.6,1,3
+28125489,Focalin XR,234.31,0.2,1,2
+37888350,"7-bromo-6-chloro-3-[3-[(2S,3S)-3-hydroxypiperidin-2-yl]-2-oxopropyl]quinazolin-4-one",414.7,1.4,2,5
+40473195,Prednisolone phosphate(2-),438.4,-0.2,2,8
+40479707,"(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-1,2,3,4,4a,5,6,7,7a,13-decahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-3-ium-7-ol",302.4,2.2,2,3
+40785065,Epilovastatin,404.5,4.3,1,5
+44129647,Relebactam,348.38,-3.6,3,7
+44135443,"4-[(10S,13R)-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid",392.6,4.9,3,4
+44139752,Osilodrostat,227.24,1.9,0,3
+44205240,Baricitinib,371.4,-0.5,1,7
+44231134,Ilunocitinib,383.4,-0.3,1,7
+44240142,Benzgalantamine,391.5,4.1,0,5
+44279790,4-amino-5-chloro-N-[(3R)-1-[3-(4-fluorophenoxy)propyl]-3-methoxypiperidin-4-yl]-2-methoxybenzamide,465.9,3.4,2,7
+44404147,"(1RS)-1-phenyl-1,2,3,4-tetrahydroisoquinoline-2-carboxylic acid (3R)-quinuclidin-3-yl ester",362.5,4.0,0,3
+44421088,"(4R,5S,6S)-3-[(3S)-5-(dimethylcarbamoyl)pyrrolidin-3-yl]sulfanyl-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid",383.5,-2.4,3,7
+44472635,Vibegron,444.5,1.8,3,5
+44480399,Fruquintinib,393.4,3.4,1,7
+44483298,"(6S,8S,10R,11S,13S,14S,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-6,10,13-trimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one",374.5,1.9,3,5
+44608289,Anle138b,343.17,4.0,1,3
+44631912,Ribociclib,434.5,2.2,2,7
+44814423,Ertugliflozin,436.9,1.7,4,7
+44828485,Hydroxy-[1-hydroxy-3-[methyl(pentyl)amino]-1-phosphonopropyl]phosphinate,318.22,-4.2,4,8
+45255840,"3-(2-Methylpropyl)-9,10-bis(trideuteriomethoxy)-1,3,4,6,7,11b-hexahydrobenzo[a]quinolizin-2-one",323.5,2.9,0,4
+45266826,Mephedrone,177.24,2.0,1,2
+45359047,Norgestimate-d3,372.5,4.1,1,4
+46174141,"[(1S,4S,5S,6R,9R,10R,12R,14R)-5,6-dihydroxy-7-(hydroxymethyl)-3,11,11,14-tetramethyl-15-oxo-4-tetracyclo[7.5.1.01,5.010,12]pentadeca-2,7-dienyl] (Z)-2-methylbut-2-enoate",430.5,2.0,3,6
+46188928,Larotrectinib,428.4,1.7,2,7
+46200932,Balovaptan,409.9,3.4,0,5
+46216796,Pacritinib,472.6,3.8,1,7
+46780481,"(2R)-9-chloro-4-methyl-13-oxa-4-azatetracyclo[12.4.0.02,6.07,12]octadeca-1(18),7(12),8,10,14,16-hexaene",285.8,3.8,0,2
+46783606,Clencyclohexerol,319.2,1.9,4,4
+46943432,Molibresib,423.9,2.9,1,5
+49769200,"4-oxo-4-[[(1S,4S,8S,9R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.04,13.08,13]hexadecan-10-yl]oxy]butanoic acid",384.4,2.5,1,8
+49831257,Filgotinib,425.5,1.4,1,6
+49855250,Pracinostat,358.5,3.1,2,4
+49871973,Cenerimod,453.5,4.2,2,8
+50905713,Duvelisib,416.9,4.1,2,5
+50914062,Delgocitinib,310.35,1.1,1,5
+51039094,Tucatinib,480.5,4.0,2,8
+51039100,Tigulixostat,294.31,1.9,1,4
+51051628,"Calcipotriol, anhydrous",412.6,4.3,3,3
+52920501,Surufatinib,480.6,3.4,3,8
+52938427,Ozanimod,404.5,3.1,2,7
+53394043,15(R)-Iloprost,360.5,2.8,3,4
+53461729,"13-Ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-ol",327.5,3.6,2,3
+53465279,Lesinurad,404.3,4.7,1,5
+53486426,"4-oxo-4-[[(4S,5R,8S,9R,12R,13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.04,13.08,13]hexadecan-10-yl]oxy]butanoic acid",384.4,2.5,1,8
+54670067,Ascorbic Acid,176.12,-1.6,4,6
+54671008,Raltegravir,444.4,1.1,3,9
+54675850,Salicylate,137.11,2.4,1,3
+54676038,Dicumarol,336.3,2.6,2,6
+54676228,Piroxicam,331.3,3.1,2,6
+54676537,Acenocoumarol,353.3,2.5,1,6
+54676860,"D-erythro-Hex-2-enonic acid, gamma-lactone",176.12,-1.6,4,6
+54677470,Meloxicam,351.4,3.0,2,7
+54677946,Laquinimod,356.8,3.7,1,3
+54677971,Tenoxicam,337.4,1.1,2,7
+54677972,Isoxicam,335.34,3.0,2,7
+54678486,Warfarin,308.3,2.7,1,4
+54679076,Ascorbate,175.12,-1.0,3,6
+54680692,Phenprocoumon,280.3,3.6,1,3
+54684141,Teriflunomide,270.21,3.3,2,6
+54690394,D-ascorbic acid,176.12,-1.6,4,6
+54713659,Cabotegravir,405.4,2.1,2,8
+54726191,Dolutegravir,419.4,2.4,2,8
+54761306,"imino-methyl-[1-[6-[(3R)-3-methylmorpholin-4-yl]-2-(1H-pyrrolo[2,3-b]pyridin-4-yl)pyrimidin-4-yl]cyclopropyl]-oxo-lambda6-sulfane",412.5,2.6,2,7
+56640146,Dasabuvir,493.6,4.3,2,6
+56649450,Alpelisib,441.5,3.2,2,8
+56944144,Lemborexant,410.4,3.2,1,7
+57336276,Basmisanil,445.5,1.9,0,8
+57358774,2-Aminoflubendazole,255.25,2.7,2,4
+57685076,5a-Dihydropregnenolone,318.5,4.9,1,2
+58391580,"2-Azabicyclo[3.1.0]hexane-3-carbonitrile, 2-[(2R)-2-amino-2-(3-hydroxytricyclo[3.3.1.13,7]dec-1-yl)acetyl]-, (1S,3S,5S)-",315.4,0.7,2,4
+58460047,Doravirine,425.7,2.1,1,8
+58496428,Setanaxib,394.9,3.2,1,4
+58557659,Upadacitinib,380.4,2.7,2,6
+59311377,CID 59311377,315.4,2.8,1,3
+59473233,Entospletinib,411.5,3.6,2,6
+59603622,Molidustat,314.3,-0.2,1,8
+59634741,Mitapivat,450.6,1.8,1,6
+60148395,Pharmakon1600-01500441,312.4,3.3,1,2
+60148445,Pharmakon1600-01503876,488.6,4.2,1,8
+60150535,Finerenone,378.4,2.4,2,6
+60199242,Venglustat,389.5,3.5,1,6
+66553195,Oliceridine,386.6,3.5,1,5
+66576989,"(1R,3S,5R)-2-[(2S)-2-amino-2-[(5S,7R)-3-hydroxy-1-adamantyl]acetyl]-2-azabicyclo[3.1.0]hexane-3-carbonitrile",315.4,0.7,2,4
+66599893,Netarsudil,453.5,4.6,2,5
+66799609,"Oxazolo[3,2-a]pyrido[1,2-d]pyrazine-8-carboxamide, N-[(2,4-difluorophenyl)methyl]-2,3,5,7,11,11a-hexahydro-6-hydroxy-3-methyl-5,7-dioxo-, (3S,11aR)-;Oxazolo[3,2-a]pyrido[1,2-d]pyrazine-8-carboxamide, N-[(2,4-difluorophenyl)methyl]-2,3,5,7,11,11a-hexahydro-6-hydroxy-3-methyl-5,7-dioxo-, (3S,11aR)-",405.4,2.1,2,8
+67171867,Darolutamide,398.8,1.8,3,5
+67286591,Pimodivir,399.4,3.8,3,8
+67335295,Iberdomide,449.5,1.1,1,6
+67454400,Reldesemtiv,384.4,1.5,2,7
+67462786,Erdafitinib,446.5,3.2,1,7
+68289010,Savolitinib,345.4,1.5,0,6
+68389008,Senaparib,478.5,2.0,1,8
+69824606,Cycrin,386.5,4.1,0,4
+70695634,CID 70695634,402.5,1.6,3,6
+70811188,"(S)-1-{5-Phenyl-4-[(pyridin-2-ylmethyl)-amino]-thieno[2,3-d]pyrimidin-2-yl}-piperidine-3-carboxylic acid (2-hydroxy-ethyl)-amide",488.6,3.5,3,8
+70957463,Flortaucipir F-18,262.27,3.3,1,3
+71183216,Eleclazine,415.4,3.7,0,8
+71226662,Acalabrutinib,465.5,3.0,2,6
+71245288,Selonsertib,445.5,2.7,1,6
+71296904,"(1S,3S,5Z)-5-[(2E)-2-[(1R,3aR,7aR)-1-[(E,2S)-5-Cyclopropyl-5-hydroxy-pent-3-en-2-yl]-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidene-cyclohexane-1,3-diol",412.6,4.3,3,3
+71311612,"[(1S,4S,5S,6R,9R,10R,12R,14R)-5,6-dihydroxy-7-(hydroxymethyl)-3,11,11,14-tetramethyl-15-oxo-4-tetracyclo[7.5.1.01,5.010,12]pentadeca-2,7-dienyl] (E)-2-methylbut-2-enoate",430.5,2.0,3,6
+71316741,CID 71316741,402.5,1.6,3,6
+71464713,Acoramidis,292.3,2.9,2,5
+71479709,Evobrutinib,429.5,4.2,2,6
+71496458,Osimertinib,499.6,3.7,2,7
+71602803,Voxelotor,337.4,2.7,1,5
+71611869,Rogaratinib,466.6,1.7,2,8
+71621331,Futibatinib,418.4,2.0,1,7
+71731823,Lorlatinib,406.4,1.5,1,7
+71767208,Tasipimidine,232.28,0.8,1,3
+72165228,Asciminib,449.8,3.0,3,8
+72704611,Deuruxolitinib,314.41,2.1,1,4
+72734332,Fenprostalene,402.5,1.6,3,6
+72941967,Otenaproxesul,365.4,4.2,1,4
+73234850,Ingenol-3-mebutate,430.5,2.0,3,6
+73265216,"[(1S,4S,5S,6R,9S,10R,12R,14R)-5,6-dihydroxy-7-(hydroxymethyl)-3,11,11,14-tetramethyl-15-oxo-4-tetracyclo[7.5.1.01,5.010,12]pentadeca-2,7-dienyl] 2-methylbut-2-enoate",430.5,2.0,3,6
+73330464,Diroximel Fumarate,255.22,-0.9,0,6
+73437646,"(3R,11bR)-3-(2-methylpropyl)-9,10-bis(trideuteriomethoxy)-1,3,4,6,7,11b-hexahydrobenzo[a]quinolizin-2-one",323.5,2.9,0,4
+73437845,Soticlestat,373.4,2.5,1,4
+73442840,Deutetrabenazine,323.5,2.9,0,4
+73759663,(22R)-Budesonide,430.5,2.5,2,6
+75593308,Bezuclastinib,331.4,3.2,3,3
+76189844,"imino-methyl-[1-[6-(3-methylmorpholin-4-yl)-2-(1H-pyrrolo[2,3-b]pyridin-4-yl)pyrimidin-4-yl]cyclopropyl]-oxo-lambda6-sulfane",412.5,2.6,2,7
+76559643,Venlafaxine n-oxide,293.4,2.4,1,3
+78435478,Plaquenil,337.9,3.8,4,2
+85668777,Erbitux,273.37,4.0,1,3
+86267612,Vimseltinib,431.5,1.5,1,6
+86278359,Seltorexant,407.4,2.8,0,7
+86278362,Pegvaliase,318.41,-2.3,3,6
+86287410,Granisetron-d3,315.4,2.8,1,3
+86287518,Imidacloprid,255.66,1.2,1,4
+86294073,Zuranolone,409.6,4.5,1,4
+86301317,Sofpironium,390.5,3.3,1,5
+86677874,Parsaclisib,432.9,2.4,2,7
+86705695,Pemigatinib,487.5,1.8,1,8
+86764100,Tavapadon,391.3,3.3,1,7
+89658382,Lumicitabine,433.9,1.5,1,7
+89851852,Durlobactam,277.26,-2.0,2,6
+90311989,Bictegravir,449.4,2.7,2,9
+90467622,Iptacopan,422.5,1.8,2,5
+90473211,"(3E,8S,9R,10S,13R,14R,17S)-13-ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-ol",327.5,3.6,2,3
+91617630,Daprodustat,393.4,2.5,2,6
+91746179,"4-oxo-4-[[(1R,5R,9R,10S,13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.04,13.08,13]hexadecan-10-yl]oxy]butanoic acid",384.4,2.5,1,8
+91801202,Daridorexant,450.9,4.1,1,5
+91824132,Etripamil,452.6,3.7,0,6
+91826463,"6,6a,6b,9a,10,10a,10b,11,12-Dodecahydro-7,9-dioxa-pentaleno[2,1-a]phenanthren-2-one",434.5,2.5,2,7
+91867648,Nitrogen-13,13.005,-0.7,0,0
+98042564,"[(3Z,13S,17R)-13-ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate",369.5,4.1,1,4
+117604931,Fezolinetant,358.4,1.6,0,7
+117761397,Mavacamten,273.33,2.1,2,3
+117947097,Belzutifan,383.3,2.0,1,8
+118023034,Avapritinib,498.6,1.9,1,9
+118115473,Ritlecitinib,285.34,2.1,2,4
+118253852,Brensocatib,420.5,2.0,2,6
+118513932,Risdiplam,401.5,0.5,1,6
+118955396,Olutasidenib,354.8,2.5,2,4
+118981713,Onfasprodil,358.4,2.3,2,6
+121231040,Levonorgestrel-D6 (major),318.5,3.3,1,2
+121231051,"(4R,8S,9S,11S,12R,13S)-12-Fluoro-11-hydroxy-8-(2-hydroxyacetyl)-9,13-dimethyl-6,6-bis(trideuteriomethyl)-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one",440.5,2.5,2,7
+121488177,Revcovi,248.28,-2.7,3,6
+121596701,Ceralasertib,412.5,2.3,2,7
+122130568,Vanobid,368.5,2.9,4,5
+124040753,"methyl (1R,2S,14S,15S)-2,15-dimethyl-5,5'-dioxospiro[18-oxapentacyclo[8.8.0.01,17.02,7.011,15]octadec-6-ene-14,2'-oxolane]-9-carboxylate",414.5,1.4,0,6
+124079495,"(8R,10R,13S,14S,17R)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",312.4,3.3,1,2
+124081876,Baloxavir,483.5,3.6,1,9
+124090478,Izencitinib,402.5,3.2,3,7
+124173720,Inavolisib,407.4,1.5,2,8
+124202150,Ciloprost;ZK 36374,360.5,2.8,3,4
+126715380,Golidocitinib,489.6,1.9,3,8
+126843202,"(1S,3S,5Z)-5-[(2Z)-2-[(1R,3aR,7aR)-1-[(E,2S)-5-cyclopropyl-5-hydroxypent-3-en-2-yl]-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",412.6,4.3,3,3
+129009911,"4-oxo-4-[[(1R,4S,5S,8S,9S,10R,12S,13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.04,13.08,13]hexadecan-10-yl]oxy]butanoic acid",384.4,2.5,1,8
+129009973,"'Saxagliptin (BMS-477118,Onglyza)'",315.4,0.7,2,4
+129010057,"4-{2-[(2R)-3-(2,5-difluorophenyl)-3-hydroxy-4-(1,2,4-triazol-1-yl)butan-2-yl]-1,3-thiazol-4-yl}benzonitrile",437.5,3.5,1,8
+129045720,Nemtabrutinib,478.9,4.3,3,7
+129269915,Pirtobrutinib,479.4,3.3,3,9
+129317890,Candeptin; Candimon; NSC 94219,368.5,2.9,4,5
+129317940,"imino-methyl-[1-[6-(3-methylmorpholin-4-yl)-2-(1H-pyrrolo[2,3-b]pyridin-4-yl)pyrimidin-4-yl]cyclopropyl]-oxo-lambda6-sulfane",412.5,2.6,2,7
+130429734,Ralmitaront,314.4,1.6,3,4
+131632305,"(1R,2R,4S,5S,7s)-9-methyl-3-oxa-9-azatricyclo[3.3.1.02,4]nonan-7-yl (S)-3-hydroxy-2-phenylpropanoate",303.35,0.9,1,5
+131875569,(14C)-Labeled-D-xylose,152.12,-2.3,4,5
+131954607,Calcipotriol(Calcipotriene),412.6,4.3,3,3
+133611887,"[(3E,8S,9R,10S,13R,14R,17S)-13-ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate",369.5,4.1,1,4
+133687604,"(8R,9S,10R,11R,13R,14R,16R,17S)-9-chloro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",408.9,2.2,3,5
+134687786,"(6S,8S,9R,10S,11S,13S,14S,16R,17R)-S-fluoromethyl 6,9-difluoro-11,17-dihydroxy-10,13,16-trimethyl-3-oxo-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-3H-cyclopenta[a]phenanthrene-17-carbothioate",444.5,3.2,2,8
+134688323,"(8S,9R,10S,11S,13S,14S,16S,17R)-9-chloro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-3H-cyclopenta[a]phenanthren-3-one",408.9,2.2,3,5
+134688930,"1-((3R,5S,8R,9S,10S,13S,14S,17S)-3-Hydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)ethanone",318.5,4.9,1,2
+134689747,"2-((8S,9S,10R,11S,13S,14S,17R)-17-(ethoxycarbonyloxy)-11-hydroxy-10,13-dimethyl-3-oxo-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-3H-cyclopenta[a]phenanthren-17-yl)-2-oxoethyl propionate",488.6,4.2,1,8
+134689761,"(1R,3S,Z)-5-((E)-2-((1R,3aS,7aR)-1-((2R,5S,E)-5-cyclopropyl-5-hydroxypent-3-en-2-yl)-7a-methyldihydro-1H-inden-4(2H,5H,6H,7H,7aH)-ylidene)ethylidene)-4-methylenecyclohexane-1,3-diol",412.6,4.3,3,3
+134693234,"(1S,2S,8S,9S,11S,12R,13S)-8-(2-chloroacetyl)-12-fluoro-11-hydroxy-6,6,9,13-tetramethyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icos-17-en-16-one",455.0,3.6,1,6
+134694266,Tildacerfont,420.0,4.7,0,6
+134694638,"(1R,3S,5R)-2-[2-amino-2-[(5S)-3-hydroxy-1-adamantyl]acetyl]-2-azabicyclo[3.1.0]hexane-3-carbonitrile",315.4,0.7,2,4
+134694672,"[2-[(1S,2S,8S,9S,11S,12R,13S,19S)-12,19-difluoro-11-hydroxy-6,6,9,13-tetramethyl-16-oxo-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-8-yl]-2-oxoethyl] acetate",494.5,3.2,1,9
+134694981,"5-[(3aS,5R,6aS)-5-hydroxy-4-[(E,3S)-3-hydroxy-4-methyloct-1-en-6-ynyl]-3,3a,4,5,6,6a-hexahydro-1H-pentalen-2-ylidene]pentanoic acid",360.5,2.8,3,4
+134767951,"[(2R,4S)-9-methyl-3-oxa-9-azatricyclo[3.3.1.02,4]nonan-7-yl] (2R)-3-hydroxy-2-phenylpropanoate",303.35,0.9,1,5
+134821691,Deucravacitinib,425.5,1.2,3,8
+135398508,Entecavir,277.28,-1.3,4,5
+135398513,Acyclovir,225.2,-1.9,3,5
+135398737,Clozapine,326.8,3.1,1,3
+135398738,Dacarbazine,182.18,-0.6,2,5
+135398739,Didanosine,236.23,-1.2,2,5
+135398740,Ganciclovir,255.23,-2.5,4,6
+135398742,Valacyclovir,324.34,-0.9,3,7
+135398744,Sildenafil,474.6,1.5,1,8
+135398745,Olanzapine,312.4,2.9,1,4
+135398748,Penciclovir,253.26,-1.9,4,5
+135400182,Raltitrexed,458.5,1.4,4,9
+135400189,Vardenafil,488.6,2.5,1,8
+135401907,Allopurinol,136.11,-0.7,2,3
+135403805,Carbadox,262.22,-0.8,1,5
+135409400,Anagrelide,256.079,1.6,1,2
+135409452,Sdz htf 919,301.39,2.6,3,3
+135409453,Tegaserod,301.39,2.6,3,3
+135413535,Valganciclovir,354.36,-1.5,4,8
+135413553,Etifoxine,300.8,4.1,1,2
+135415867,Azilsartan,456.4,4.4,2,7
+135449328,Febantel,446.5,3.8,3,8
+135484649,4-[(Z)-dimethylaminodiazenyl]-1H-imidazole-5-carboxamide,182.18,-0.6,2,5
+135511839,N-[(E)-(1-hydroxy-4-oxido-quinoxalin-4-ium-2-ylidene)methyl]iminocarbamic acid methyl ester,262.22,-0.8,1,5
+135527764,"2-Imidazolidinimine, 1-[(6-chloro-3-pyridinyl)methyl]-N-nitro-",255.66,1.2,1,4
+135541675,1-(6-Chlor-3-pyridinylmethyl)-N-nitroimidazolidin-2-ylidenamine; Imidacloprid,255.66,1.2,1,4
+135565042,Branaplam,393.5,2.7,3,6
+135565082,Talazoparib,380.4,2.3,2,7
+135565554,Pamiparib,298.31,1.6,2,4
+135565596,Copanlisib,480.5,0.3,2,9
+135565884,Zanubrutinib,471.5,3.5,2,5
+135565903,Opicapone,413.2,3.4,2,8
+135565923,Repotrectinib,355.4,2.1,2,6
+135916113,Alimta,425.4,1.5,4,7
+135920971,Balsalazide sodium,355.3,3.5,2,8
+138756126,Ingenol 3-angelate;PEP005,430.5,2.0,3,6
+139331495,Aficamten,337.4,2.1,1,5
+140619961,"(4R,5S,6S)-3-[(3S,5S)-5-[(3-carboxylatophenyl)carbamoyl]pyrrolidin-3-yl]sulfanyl-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylate",473.5,-0.2,3,9
+145722629,"2-(2-(Fluoro-18F)-4-pyridinyl)-9H-pyrrolo(2,3-b:4,5-c')dipyridine",263.26,2.6,1,4
+145996610,Molnupiravir,329.31,-0.8,4,7
+146037278,N-Aminomethyldopa,225.22,-1.5,4,6
+146156852,"Pregnan-20-one, 3-hydroxy-, (3beta,5alpha)-",318.5,4.9,1,2
+146158693,"[(13S,17R)-13-ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] 2,2,2-trideuterioacetate",372.5,4.1,1,4
+146160078,"4-oxo-4-[[(13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.04,13.08,13]hexadecan-10-yl]oxy]butanoic acid",384.4,2.5,1,8
+154825207,"[(8S,10R,11S,13S,14S,17R)-11-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] pentanoate",446.6,3.8,2,6
+155903259,Nirmatrelvir,499.5,2.2,3,8
+155903696,"(8R,9R,10R,11S,13R,14S,16S,17R)-9-chloro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",408.9,2.2,3,5
+163196495,Progesterone-13c2,316.4,3.9,0,2
+163285063,"(1S,2R,4R,8S,9S,11R,12S,13R)-11-hydroxy-8-(2-hydroxyacetyl)-9,13-dimethyl-6-propyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one",430.5,2.5,2,6
+163285100,"(8S,9R,10S,11S,13S,14R,16S,17S)-9-chloro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",408.9,2.2,3,5
+163285102,"(1R,3S,5Z)-5-[2-[(1R,3aS,7aR)-1-[(E,2R,5S)-5-cyclopropyl-5-hydroxypent-3-en-2-yl]-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",412.6,4.3,3,3
+163285258,"(8R,9S,10R,13R,14S)-13-ethyl-17-ethynyl-17-hydroxy-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",312.4,3.3,1,2
+166639011,"(1S,2S,4R,8S,9S,13R)-11-hydroxy-8-(2-hydroxyacetyl)-9,13-dimethyl-6-propyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one",430.5,2.5,2,6
+168317479,"(8R,9S,10R,13R,14S,17S)-13-ethyl-17-ethynyl-3-hydroxyimino-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-ol",327.5,3.6,2,3
+170923271,"(1S,3R,5Z)-5-[2-[(1R,3aR,7aS)-1-[(2R,5S)-5-cyclopropyl-5-hydroxypent-3-en-2-yl]-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",412.6,4.3,3,3
